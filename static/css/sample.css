@@ -79,7 +79,7 @@ div.container {
 }
 
 div.container img {
-  width: 40vw;
+  width: 35vw;
   border-radius: 14px;
   transition: transform 0.3s ease;
   cursor: pointer;
@@ -87,6 +87,15 @@ div.container img {
 
 div.container img:hover {
   transform: scale(1.05);
+}
+
+/* 画像下の楽曲名を装飾 */
+div.container p {
+  font-size: 1.1rem;
+  margin-top: 8px;
+  font-weight: bold;
+  color: #424242;
+  text-align: center;
 }
 
 input[type=radio] {
@@ -133,7 +142,7 @@ table {
 }
 
 th, td {
-  padding: 12px;
+  padding: 10px;
   text-align: left;
   border: 1px solid #ddd;
 }
@@ -143,13 +152,8 @@ th {
 }
 
 .tierImage {
-  width: 80px;
+  width: 14%;
   border-radius: 5px;
-}
-
-#result_button {
-  display: block;
-  margin: 20px auto;
 }
 
 /* 結果表示テーブルの見出し */
@@ -164,18 +168,12 @@ table td:first-child {
   text-align: center;
 }
 
-/* セルの丸みを追加
-table, th, td {
-  border-radius: 10px;
-}:*/
-
 /* 表の影を追加 */
 table {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
-/* Tier画像のサイズ調整（少し大きく） */
-.tierImage {
-  width: 100px;
-  border-radius: 8px;
+#result_button {
+  display: block;
+  margin: 20px auto;
 }
