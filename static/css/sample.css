@@ -1,0 +1,181 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8fafc;
+  color: #333;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+#Explain_text {
+  background-color: #ffffff;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.1);
+  margin-bottom: 20px;
+}
+
+.red {
+  color: #e53e3e;
+}
+
+/* フォームのスタイル */
+form {
+  background-color: #ffffff;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  width: 90%;
+  max-width: 500px;
+  margin: 0 auto 20px;
+  text-align: center;
+}
+
+input[type=text], select {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  width: 80%;
+  margin-bottom: 10px;
+}
+
+input[type=button], .result_button {
+  padding: 10px;
+  border-radius: 25px;
+  border: none;
+  background-color: #3182ce;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: 60%;
+  margin: 10px auto;
+}
+
+input[type=button]:hover, .result_button:hover {
+  background-color: #2b6cb0;
+}
+
+#download_button {
+  padding: 10px;
+  border-radius: 25px;
+  border: none;
+  background-color: #38a169;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: 60%;
+  margin: 10px auto;
+}
+
+#download_button:hover {
+  background-color: #2f855a;
+}
+
+/* 画像選択エリア */
+div.container {
+  padding: 2.5px;
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+}
+
+div.container img {
+  width: 40vw;
+  border-radius: 14px;
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
+
+div.container img:hover {
+  transform: scale(1.05);
+}
+
+input[type=radio] {
+  display: none;
+}
+
+input[type=radio]:checked + label img {
+  box-shadow: 0 0 0 5px rgb(255, 0, 0);
+}
+
+.choiceButton {
+  padding: 2.5px;
+  display: flex;
+  justify-content: center;
+}
+
+.choiceButton input[type=button] {
+  width: auto;
+  flex-grow: 1;
+  margin: 0 5px;
+}
+
+/* 結果表示テーブル */
+#resultArea {
+  margin-top: 40px;
+  text-align: center;
+  padding: 20px;
+}
+
+#resultArea h1 {
+  font-size: 2rem;
+  margin-bottom: 15px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #3182ce;
+  display: inline-block;
+}
+
+table {
+  width: 100%;
+  max-width: 700px;
+  margin: auto;
+  border-collapse: collapse;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+th, td {
+  padding: 12px;
+  text-align: left;
+  border: 1px solid #ddd;
+}
+
+th {
+  background-color: #edf2f7;
+}
+
+.tierImage {
+  width: 80px;
+  border-radius: 5px;
+}
+
+#result_button {
+  display: block;
+  margin: 20px auto;
+}
+
+/* 結果表示テーブルの見出し */
+table th {
+  background-color: #b2d8fd;
+}
+
+/* Tier列を強調 */
+table td:first-child {
+  background-color: #edf2f7;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* セルの丸みを追加
+table, th, td {
+  border-radius: 10px;
+}:*/
+
+/* 表の影を追加 */
+table {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Tier画像のサイズ調整（少し大きく） */
+.tierImage {
+  width: 100px;
+  border-radius: 8px;
+}

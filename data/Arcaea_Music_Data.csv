@@ -1,0 +1,529 @@
+SortNo,Music_Title,Artist,BPM,Notes,Side,Pack,Version,Difficulty,Level,Const,Image
+1,Sayonara Hatsukoi,REDSHiFT,178,666,Hikari,Arcaea,1,FTR,7,7,https://cdn.wikiwiki.jp/to/w/arcaea/Sayonara Hatsukoi/::ref/Sayonara Hatsukoi.jpg.webp
+2,Fairytale,chitose,189,782,Hikari,Arcaea,1,FTR,7,7,https://cdn.wikiwiki.jp/to/w/arcaea/Fairytale/::ref/Fairytale 3.jpg.webp
+3,Vexaria,ak+q,180,734,Hikari,Arcaea,1,FTR,7,7,https://cdn.wikiwiki.jp/to/w/arcaea/Vexaria/::ref/Vexaria.jpg.webp
+4,Rise,Combatplayer,140,788,Hikari,Arcaea,1,FTR,7.7,7.7,https://cdn.wikiwiki.jp/to/w/arcaea/Rise/::ref/Rise.jpg.webp
+5,Lucifer,chitose,165,861,Tairitsu,Arcaea,1,FTR,8,8.2,https://cdn.wikiwiki.jp/to/w/arcaea/Lucifer/::ref/Lucifer.jpg.webp
+6,Snow White,Puru,150,978,Hikari,Arcaea,1,FTR,8,8.4,https://cdn.wikiwiki.jp/to/w/arcaea/Snow White/::ref/Snow White.jpg.webp
+7,Shades of Light in a Transcendent Realm,ak+q,170,1067,Hikari,Arcaea,1,FTR,8,8.3,https://cdn.wikiwiki.jp/to/w/arcaea/Shades%20of%20Light%20in%20a%20Transcendent%20Realm/::ref/Shades%20of%20Light%20in%20a%20Transcendent%20Realm-fixed.jpg.webp
+8,Babaroque,cYsmix,136,808,Hikari,Arcaea,1,FTR,8,8.5,https://cdn.wikiwiki.jp/to/w/arcaea/Babaroque/::ref/Babaroque.jpg
+9,Lost Civilization,Laur vs CK,210,986,Tairitsu,Arcaea,1,FTR,9,9.2,https://cdn.wikiwiki.jp/to/w/arcaea/Lost Civilization/::ref/Lost Civilization.jpg.webp
+10,GOODTEK(Arcaea Edit),EBIMAYO,190,968,Hikari,Arcaea,1,FTR,9,9.3,https://cdn.wikiwiki.jp/to/w/arcaea/GOODTEK (Arcaea Edit)/::ref/GOODTEK (Arcaea Edit).jpg.webp
+11,qualia -ideaesthesia-,nitro,144,1022,Tairitsu,Arcaea,1,FTR,9,9.1,https://cdn.wikiwiki.jp/to/w/arcaea/qualia -ideaesthesia-/::ref/qualia -ideaesthesia-.jpg
+12,cry of viyella,Laur,180,791,Tairitsu,Eternal Core,1,FTR,8.7,8.7,https://cdn.wikiwiki.jp/to/w/arcaea/cry%20of%20viyella/::ref/cry%20of%20viyella%202.jpg.webp
+13,I've heard it said,Combatplayer,165,864,Hikari,Eternal Core,1,FTR,8,8.1,https://cdn.wikiwiki.jp/to/w/arcaea/I've heard it said/::ref/I've heard it said.jpg.webp
+14,memoryfactory.lzh,Frums,100,672,Hikari,Eternal Core,1,FTR,8.7,8.9,https://cdn.wikiwiki.jp/to/w/arcaea/memoryfactory.lzh/::ref/memoryfactory.lzh.jpg
+15,Relentless,Akira Complex,174,1015,Tairitsu,Eternal Core,1,FTR,8,8,https://cdn.wikiwiki.jp/to/w/arcaea/Relentless/::ref/Relentless_2.jpg.webp
+16,Lumia,sky_delta,180,961,Hikari,Eternal Core,1,FTR,8,8.4,https://cdn.wikiwiki.jp/to/w/arcaea/Lumia/::ref/Lumia.jpg.webp
+17,Essence of Twilight,ak+q,164,1204,Tairitsu,Eternal Core,1,FTR,9,9.1,https://cdn.wikiwiki.jp/to/w/arcaea/Essence of Twilight/::ref/Essence of Twilight.jpg.webp
+18,PRAGMATISM,Laur,174,942,Hikari,Eternal Core,1,FTR,10,10.1,https://cdn.wikiwiki.jp/to/w/arcaea/PRAGMATISM/::ref/PRAGMATISM-R.jpg.webp
+19,Sheriruth,Team Grimoire,185,1151,Tairitsu,Eternal Core,1,FTR,10,10,https://cdn.wikiwiki.jp/to/w/arcaea/Sheriruth/::ref/Sheriruth.jpg.webp
+20,Dement ~after legend~,Cosmograph,210,970,Tairitsu,Arcaea,1,FTR,7.7,7.7,https://cdn.wikiwiki.jp/to/w/arcaea/Dement ~after legend~/::ref/Dement ~after legend~.jpg.webp
+21,Dandelion,Farhan,169,921,Hikari,Arcaea,1,FTR,8,8.5,https://cdn.wikiwiki.jp/to/w/arcaea/Dandelion/::ref/Dandelion.jpg
+22,Infinity Heaven,Hyun,160,853,Hikari,Arcaea,1,FTR,7.7,7.7,https://cdn.wikiwiki.jp/to/w/arcaea/Infinity Heaven/::ref/Infinity Heaven.jpg.webp
+23,Anökumene,Jun Kuroda,186,851,Tairitsu,Arcaea,1,FTR,9,9.2,https://cdn.wikiwiki.jp/to/w/arcaea/Anokumene/::ref/Anokumene.jpg.webp
+24,Brand new world,U-ske,160,787,Hikari,Arcaea,1,FTR,7.7,7.7,https://cdn.wikiwiki.jp/to/w/arcaea/Brand new world/::ref/Brand new world.jpg.webp
+25,Paradise,Sound Souler,125,729,Hikari,Crimson Solace,1,FTR,7.7,7.7,https://cdn.wikiwiki.jp/to/w/arcaea/Paradise/::ref/Paradise.jpg.webp
+26,Flashback,ARForest,195,856,Hikari,Crimson Solace,1,FTR,8.7,8.8,https://cdn.wikiwiki.jp/to/w/arcaea/Flashback/::ref/Flashback.jpg.webp
+27,フライブルクとエンドロウル,アリスシャッハと魔法の楽団,180,930,Hikari,Crimson Solace,1,FTR,9,9,https://cdn.wikiwiki.jp/to/w/arcaea/%E3%83%95%E3%83%A9%E3%82%A4%E3%83%96%E3%83%AB%E3%82%AF%E3%81%A8%E3%82%A8%E3%83%B3%E3%83%89%E3%83%AD%E3%82%A6%E3%83%AB/::ref/Flyburg%20and%20Endroll.jpg.webp
+28,Party Vinyl,モリモリあつし,132,800,Hikari,Crimson Solace,1,FTR,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/Party Vinyl/::ref/Party Vinyl.jpg.webp
+29,Nirv lucE,しーけー,260,980,Hikari,Crimson Solace,1,FTR,10,10.2,https://cdn.wikiwiki.jp/to/w/arcaea/Nirv lucE/::ref/Nirv lucE.jpg.webp
+30,Chronostasis,黒皇帝,196,916,Tairitsu,Arcaea,1.01,FTR,8.7,8.9,https://cdn.wikiwiki.jp/to/w/arcaea/Chronostasis/::ref/Chronostasis.jpg.webp
+31,神奈川電脳暗渠,南ゆに,180,1111,Hikari,Arcaea,1.01,FTR,9,9,https://cdn.wikiwiki.jp/to/w/arcaea/%E7%A5%9E%E5%A5%88%E5%B7%9D%E9%9B%BB%E8%84%B3%E6%9A%97%E6%B8%A0/::ref/Kanagawa%20Cyber%20Culvert.jpg.webp
+32,DataErr0r,Cosmograph,180,955,Tairitsu,Memory Archive,1.01,FTR,9,9.5,https://cdn.wikiwiki.jp/to/w/arcaea/DataErr0r/::ref/DataErr0r.jpg.webp
+33,CROSS♰SOUL‪,Hyun feat. Syepias,200,1081,Tairitsu,Memory Archive,1.01,FTR,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/CROSS†SOUL/::ref/CROSS†SOUL.jpg.webp
+34,Your voice so... feat. Such,PSYQUI,176,1013,Hikari,Memory Archive,1.01,FTR,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/Your voice so... feat. Such/::ref/Your voice so... feat. Such.jpg.webp
+35,クロートーと星の観測者,しーけー,230,1021,Hikari,Arcaea,1.01,FTR,7.7,7.7,https://cdn.wikiwiki.jp/to/w/arcaea/%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%88%E3%83%BC%E3%81%A8%E6%98%9F%E3%81%AE%E8%A6%B3%E6%B8%AC%E8%80%85/::ref/Clotho%20and%20the%20stargazer.jpg.webp
+36,Moonlight of Sand Castle,旅人E,160,645,Hikari,Dynamix,1.01,FTR,7.7,7.7,https://cdn.wikiwiki.jp/to/w/arcaea/Moonlight of Sand Castle/::ref/Moonlight of Sand Castle.jpg.webp
+37,REconstruction,Ryazan,180,825,Hikari,Dynamix,1.01,FTR,8,8.4,https://cdn.wikiwiki.jp/to/w/arcaea/REconstruction/::ref/REconstruction.jpg.webp
+38,Evoltex (poppi'n mix),Arch vs n3pu,205,775,Hikari,Dynamix,1.01,FTR,8.7,8.9,https://cdn.wikiwiki.jp/to/w/arcaea/Evoltex (poppi'n mix)/::ref/Evoltex (poppi'n mix).jpg.webp
+39,Oracle,TQ☆,152,963,Tairitsu,Dynamix,1.01,FTR,9,9.3,https://cdn.wikiwiki.jp/to/w/arcaea/Oracle/::ref/Oracle.jpg.webp
+40,α‪terlβus,Aoi,202,1030,Tairitsu,Dynamix,1.01,FTR,10,10.2,https://cdn.wikiwiki.jp/to/w/arcaea/αterlβus/::ref/αterlβus.jpg.webp
+41,Ignotus,ak+q,170,1225,Tairitsu,Arcaea,1.01,FTR,9,9.3,https://cdn.wikiwiki.jp/to/w/arcaea/Ignotus/::ref/Ignotus.jpg.webp
+42,不浄な白い鳥,MIssionary,184,805,Hikari,Memory Archive,1.01,FTR,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/%E4%B8%8D%E6%B5%84%E3%81%AA%E7%99%BD%E3%81%84%E9%B3%A5/::ref/Impure%20Bird.jpg.webp
+43,ハルトピア ~Utopia of Spring~,A-zu-ra,185,1061,Hikari,Arcaea,1.01,FTR,8,8.5,https://cdn.wikiwiki.jp/to/w/arcaea/%E3%83%8F%E3%83%AB%E3%83%88%E3%83%94%E3%82%A2%20~Utopia%20of%20Spring~/::ref/Harutopia%20~Utopia%20of%20Spring~.jpg
+44,Blossoms,T2Kazuya,138,655,Hikari,Ambivalent Vision,1.01,FTR,7,7,https://cdn.wikiwiki.jp/to/w/arcaea/Blossoms/::ref/Blossoms.jpg.webp
+45,vsキミ戦争,U-ske (feat. lueur),187,641,Hikari,Ambivalent Vision,1.01,FTR,7.7,7.7,https://cdn.wikiwiki.jp/to/w/arcaea/vs%E3%82%AD%E3%83%9F%E6%88%A6%E4%BA%89/::ref/Romance%20Wars.jpg.webp
+46,Moonheart,翡乃イスカ,180,947,Hikari,Ambivalent Vision,1.01,FTR,8,8.4,https://cdn.wikiwiki.jp/to/w/arcaea/Moonheart/::ref/Moonheart.jpg.webp
+47,Genesis,Iris,132,713,Tairitsu,Ambivalent Vision,1.01,FTR,8,8.2,https://cdn.wikiwiki.jp/to/w/arcaea/Genesis/::ref/Genesis.jpg.webp
+48,Lethaeus,Silentroom,155,900,Tairitsu,Ambivalent Vision,1.01,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/Lethaeus/::ref/Lethaeus.jpg.webp
+49,Auxesia,ginkiha,183,1000,Hikari,Memory Archive,1.01,FTR,9,9.3,https://cdn.wikiwiki.jp/to/w/arcaea/Auxesia/::ref/Auxesia.jpg.webp
+50,Rabbit In The Black Room,Rabbit House,270,772,Tairitsu,Arcaea,1.01,FTR,8,8.4,https://cdn.wikiwiki.jp/to/w/arcaea/Rabbit In The Black Room/::ref/Rabbit In The Black Room.jpg.webp
+51,Modelista,HiTECH NINJA,165,1010,Hikari,Memory Archive,1.01,FTR,9.7,9.9,https://cdn.wikiwiki.jp/to/w/arcaea/Modelista/::ref/Modelista.jpg.webp
+52,One Last Drive,REDSHiFT,175,885,Hikari,Arcaea,1.05,FTR,8,8.2,https://cdn.wikiwiki.jp/to/w/arcaea/One Last Drive/::ref/One Last Drive.jpg.webp
+53,Dreamin' Attraction!!,翡乃イスカ,205,1129,Hikari,Arcaea,1.05,FTR,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/Dreamin' Attraction!!/::ref/Dreamin' Attraction!!.jpg.webp
+54,Red and Blue,Silentroom,150,845,Tairitsu,Arcaea,1.05,FTR,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/Red and Blue/::ref/Red and Blue.jpg.webp
+55,Iconoclast,Yamajet,140,795,Tairitsu,Vicious Labyrinth,1.05,FTR,9,9.1,https://cdn.wikiwiki.jp/to/w/arcaea/Iconoclast/::ref/Iconoclast.jpg.webp
+56,SOUNDWiTCH,HATE,170,785,Tairitsu,Vicious Labyrinth,1.05,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/SOUNDWiTCH/::ref/SOUNDWiTCH.jpg.webp
+57,妖艶魔女 -trappola bewitching-,gmtn.,190,1044,Tairitsu,Vicious Labyrinth,1.05,FTR,9.7,9.9,https://cdn.wikiwiki.jp/to/w/arcaea/%E5%A6%96%E8%89%B6%E9%AD%94%E5%A5%B3%20-trappola%20bewitching-/::ref/trappola%20bewitching.jpg.webp
+58,conflict,siromaru + cranky,160,1056,Tairitsu,Vicious Labyrinth,1.05,FTR,10,10.2,https://cdn.wikiwiki.jp/to/w/arcaea/conflict/::ref/conflict.jpg.webp
+59,Axium Crisis,ak+q,170,1094,Tairitsu,Vicious Labyrinth,1.05,FTR,10,10.6,https://cdn.wikiwiki.jp/to/w/arcaea/Axium Crisis/::ref/Axium Crisis.jpg.webp
+60,Grievous Lady,Team Grimoire vs Laur,210,1450,Tairitsu,Vicious Labyrinth,1.05,FTR,11,11.1,https://cdn.wikiwiki.jp/to/w/arcaea/Grievous Lady/::ref/Grievous Lady.jpg.webp
+61,Surrender,void,152,925,Hikari,Memory Archive,1.05,FTR,8.7,8.8,https://cdn.wikiwiki.jp/to/w/arcaea/Surrender/::ref/Surrender.jpg.webp
+62,夜桜吹雪,A.SAKA,172,931,Hikari,Memory Archive,1.05,FTR,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/%E5%A4%9C%E6%A1%9C%E5%90%B9%E9%9B%AA/::ref/Yosakura%20Fubuki.jpg.webp
+63,Reinvent,Sound Souler,174,852,Hikari,Arcaea,1.05,FTR,8,8.5,https://cdn.wikiwiki.jp/to/w/arcaea/Reinvent/::ref/Reinvent.jpg.webp
+64,Syro,Mitomoro,178,1150,Hikari,Arcaea,1.05,FTR,9,9.3,https://cdn.wikiwiki.jp/to/w/arcaea/Syro/::ref/Syro.jpg.webp
+65,Dream goes on,Tiny Minim,174,719,Hikari,Lanota,1.05,FTR,7.7,7.7,https://cdn.wikiwiki.jp/to/w/arcaea/Dream goes on/::ref/Dream goes on.jpg
+66,Journey,ARForest,200,997,Hikari,Lanota,1.05,FTR,9,9.1,https://cdn.wikiwiki.jp/to/w/arcaea/Journey/::ref/Journey.jpg.webp
+67,Specta,Junk,179,1096,Hikari,Lanota,1.05,FTR,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/Specta/::ref/Specta.jpg.webp
+68,Quon,Feryquitous,189,991,Hikari,Lanota,1.05,FTR,9,9.6,https://cdn.wikiwiki.jp/to/w/arcaea/Quon/::ref/Quon.jpg.webp
+69,cyanine,jioyi,182,1171,Tairitsu,Lanota,1.05,FTR,10,10.6,https://cdn.wikiwiki.jp/to/w/arcaea/cyanine/::ref/cyanine.jpg.webp
+70,Metallic Punisher,INNOCENT NOISE,165,1238,Tairitsu,Memory Archive,1.05,FTR,10,10.3,https://cdn.wikiwiki.jp/to/w/arcaea/Metallic Punisher/::ref/Metallic Punisher.jpg.webp
+71,Blaster,Massive New Krew,180,1002,Tairitsu,Arcaea,1.05,FTR,9,9.3,https://cdn.wikiwiki.jp/to/w/arcaea/Blaster/::ref/Blaster.jpg.webp
+72,next to you,uma feat. 橘花音,165,824,Hikari,Binary Enfold,1.06,FTR,8.7,8.8,https://cdn.wikiwiki.jp/to/w/arcaea/next to you/::ref/next to you.jpg.webp
+73,Silent Rush,Soleily,158,941,Tairitsu,Binary Enfold,1.06,FTR,8,8.6,https://cdn.wikiwiki.jp/to/w/arcaea/Silent Rush/::ref/Silent Rush.jpg.webp
+74,Strongholds,Yooh,105,922,Tairitsu,Binary Enfold,1.06,FTR,9,9.2,https://cdn.wikiwiki.jp/to/w/arcaea/Strongholds/::ref/Strongholds.jpg.webp
+75,Memory Forest,ETIA.,178,978,Hikari,Binary Enfold,1.06,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/Memory Forest/::ref/Memory Forest.jpg.webp
+76,Singularity,ETIA.,175,1105,Tairitsu,Binary Enfold,1.06,FTR,10,10.5,https://cdn.wikiwiki.jp/to/w/arcaea/Singularity/::ref/Singularity.jpg.webp
+77,carmine:scythe,かゆき,165,1164,Tairitsu,Memory Archive,1.06,FTR,9,9.6,https://cdn.wikiwiki.jp/to/w/arcaea/carmine_scythe/::ref/carmine_scythe.jpg.webp
+78,γuarδina,Aoi,202,1120,Hikari,Memory Archive,1.06,FTR,10,10.4,https://cdn.wikiwiki.jp/to/w/arcaea/%CE%B3uar%CE%B4ina/::ref/guardina.jpg.webp
+79,Cybernecia Catharsis,Tanchiky,184,946,Tairitsu,Arcaea,1.06,FTR,9,9.5,https://cdn.wikiwiki.jp/to/w/arcaea/Cybernecia Catharsis/::ref/Cybernecia Catharsis.jpg.webp
+80,Be There,PSYQUI,164,982,Hikari,Memory Archive,1.06,FTR,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/Be There/::ref/Be There.jpg.webp
+81,inkar-usi,DIA,102,463,Hikari,Arcaea,1.06,FTR,7.7,7.7,https://cdn.wikiwiki.jp/to/w/arcaea/inkar-usi/::ref/inkar-usi.jpg.webp
+82,Call My Name feat. Yukacco,Mameyudoufu,175,921,Hikari,Memory Archive,1.06,FTR,8.7,8.7,https://cdn.wikiwiki.jp/to/w/arcaea/Call My Name feat. Yukacco/::ref/Call My Name feat. Yukacco.jpg
+83,Suomi,Aire,125,818,Hikari,Arcaea,1.07,FTR,7.7,7.7,https://cdn.wikiwiki.jp/to/w/arcaea/Suomi/::ref/Suomi.jpg.webp
+84,Bookmaker (2D Version),Kobaryo,175,1124,Tairitsu,Arcaea,1.07,FTR,8,8.3,https://cdn.wikiwiki.jp/to/w/arcaea/Bookmaker (2D Version)/::ref/Bookmaker (2D Version).jpg.webp
+85,堕楽の園,gmtn. (witch's slave),168,1061,Tairitsu,Arcaea,1.07,FTR,9,9.5,https://cdn.wikiwiki.jp/to/w/arcaea/%E5%A0%95%E6%A5%BD%E3%81%AE%E5%9C%92/::ref/Illegal%20Paradise.jpg.webp
+86,九番目の迷路,アリスシャッハと魔法の楽団,159,775,Hikari,Luminous Sky,1.07,FTR,8.7,8.9,https://cdn.wikiwiki.jp/to/w/arcaea/%E4%B9%9D%E7%95%AA%E7%9B%AE%E3%81%AE%E8%BF%B7%E8%B7%AF/::ref/Maze%20No.9-2.jpg.webp
+87,The Message,Jun Kuroda,202,992,Hikari,Luminous Sky,1.07,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/The Message/::ref/The Message.jpg.webp
+88,Sulfur,ぺのれり,182,1045,Hikari,Luminous Sky,1.07,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/Sulfur/::ref/Sulfur.jpg.webp
+89,Halcyon,xi,191,1227,Hikari,Luminous Sky,1.07,FTR,10,10.5,https://cdn.wikiwiki.jp/to/w/arcaea/Halcyon/::ref/Halcyon.jpg.webp
+90,Ether Strike,Akira Complex,156,1170,Hikari,Luminous Sky,1.07,FTR,10,10.3,https://cdn.wikiwiki.jp/to/w/arcaea/Ether Strike/::ref/Ether Strike.jpg.webp
+91,Fracture Ray,Sakuzyo,200,1279,Hikari,Luminous Sky,1.07,FTR,11,11.1,https://cdn.wikiwiki.jp/to/w/arcaea/Fracture Ray/::ref/Fracture Ray.jpg.webp
+92,Nhelv,Silentroom,174.59,1108,Tairitsu,Arcaea,1.07,FTR,9.7,9.9,https://cdn.wikiwiki.jp/to/w/arcaea/Nhelv/::ref/Nhelv.jpg.webp
+93,dropdead,Frums,50,823,Tairitsu,Memory Archive,1.07,FTR,8.7,9.1,https://cdn.wikiwiki.jp/to/w/arcaea/dropdead/::ref/dropdead.jpg.webp
+94,Fallensquare,Silentroom,99,703,Tairitsu,Memory Archive,1.07,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/Fallensquare/::ref/Fallensquare.jpg
+95,白道、多希望羊と信じありく。,Apo11o program ft. 大瀬良あい,192,1058,Tairitsu,Arcaea,1.07,FTR,9,9.6,https://cdn.wikiwiki.jp/to/w/arcaea/%E7%99%BD%E9%81%93%E3%80%81%E5%A4%9A%E5%B8%8C%E6%9C%9B%E7%BE%8A%E3%81%A8%E4%BF%A1%E3%81%98%E3%81%82%E3%82%8A%E3%81%8F%E3%80%82/::ref/LunarOrbit%20-believe%20in%20the%20Espebranch%20road-.jpg.webp
+96,Purgatorium,お月さま交響曲,150,983,Tairitsu,Arcaea,1.07,FTR,8,8.4,https://cdn.wikiwiki.jp/to/w/arcaea/Purgatorium/::ref/Purgatorium.jpg.webp
+97,Alexandrite,WAiKURO,146,1040,Tairitsu,Memory Archive,1.07,FTR,10,10,https://cdn.wikiwiki.jp/to/w/arcaea/Alexandrite/::ref/Alexandrite.jpg.webp
+98,光,THB,130,684,Tairitsu,Tone Sphere,1.08,FTR,8,8.1,https://cdn.wikiwiki.jp/to/w/arcaea/%E5%85%89/::ref/Hikari.jpg.webp
+99,Hall of Mirrors,Sta,147,898,Tairitsu,Tone Sphere,1.08,FTR,8,8.2,https://cdn.wikiwiki.jp/to/w/arcaea/Hall of Mirrors/::ref/Hall of Mirrors.jpg.webp
+100,STAGER (ALL STAGE CLEAR),Ras,145,1004,Hikari,Tone Sphere,1.08,FTR,9,9.5,https://cdn.wikiwiki.jp/to/w/arcaea/STAGER%20%28ALL%20STAGE%20CLEAR%29/::ref/STAGER%20%28ALL%20STAGE%20CLEAR%29%2003.jpg.webp
+101,Linear Accelerator,THE SHAFT,211.9,905,Hikari,Tone Sphere,1.08,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/Linear Accelerator/::ref/Linear Accelerator.jpg.webp
+102,Tiferet,xi vs Sta,140,1086,Tairitsu,Tone Sphere,1.08,FTR,10,10.3,https://cdn.wikiwiki.jp/to/w/arcaea/Tiferet/::ref/Tiferet.jpg.webp
+103,Rugie,Feryquitous feat.Sennzai,191,975,Tairitsu,Arcaea,1.08,FTR,9,9.2,https://cdn.wikiwiki.jp/to/w/arcaea/Rugie/::ref/Rugie.jpg.webp
+104,Astral tale,Noah,134,884,Tairitsu,Memory Archive,1.08,FTR,9,9.6,https://cdn.wikiwiki.jp/to/w/arcaea/Astral tale/::ref/Astral tale.jpg.webp
+105,Phantasia,Yunosuke,153,952,Hikari,Memory Archive,1.08,FTR,9,9.2,https://cdn.wikiwiki.jp/to/w/arcaea/Phantasia/::ref/Phantasia.jpg.webp
+106,Empire of Winter,Street,175,920,Hikari,Memory Archive,1.08,FTR,9,9.1,https://cdn.wikiwiki.jp/to/w/arcaea/Empire of Winter/::ref/Empire of Winter.jpg.webp
+107,MERLIN,REDALiCE,180,712,Hikari,Groove Coaster,1.09,FTR,8.7,8.9,https://cdn.wikiwiki.jp/to/w/arcaea/MERLIN/::ref/MERLIN.jpg.webp
+108,DX超性能フルメタル少女,IOSYS TRAX (uno with.ちょこ),160,808,Hikari,Groove Coaster,1.09,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/DX%E8%B6%85%E6%80%A7%E8%83%BD%E3%83%95%E3%83%AB%E3%83%A1%E3%82%BF%E3%83%AB%E5%B0%91%E5%A5%B3/::ref/DX%20Choseinou%20Full%20Metal%20Shojo.jpg.webp
+109,OMAKENO Stroke,t+pazolite,240,869,Tairitsu,Groove Coaster,1.09,FTR,9,9.5,https://cdn.wikiwiki.jp/to/w/arcaea/OMAKENO Stroke/::ref/OMAKENO Stroke.jpg.webp
+110,Scarlet Lance,MASAKI (ZUNTATA),185,1130,Hikari,Groove Coaster,1.09,FTR,10,10,https://cdn.wikiwiki.jp/to/w/arcaea/Scarlet Lance/::ref/Scarlet Lance.jpg.webp
+111,ouroboros -twin stroke of the end-,Cranky VS MASAKI,188,1369,Tairitsu,Groove Coaster,1.09,FTR,10.7,10.7,https://cdn.wikiwiki.jp/to/w/arcaea/ouroboros -twin stroke of the end-/::ref/ouroboros -twin stroke of the end-.jpg.webp
+112,Libertas,Zekk,160,947,Hikari,Memory Archive,1.09,FTR,9,9.2,https://cdn.wikiwiki.jp/to/w/arcaea/Libertas/::ref/Libertas.jpg.webp
+113,虚空の夢,ak+q feat.Sennzai,162,972,Hikari,Eternal Core,1.09,FTR,8.7,8.8,https://cdn.wikiwiki.jp/to/w/arcaea/%E8%99%9A%E7%A9%BA%E3%81%AE%E5%A4%A2/::ref/Solitary%20Dream_ja.jpg.webp
+114,Grimheart,Puru,170,959,Hikari,Arcaea,2,FTR,8.7,8.7,https://cdn.wikiwiki.jp/to/w/arcaea/Grimheart/::ref/Grimheart.jpg.webp
+115,ReviXy,ikaruga nex,185,1047,Tairitsu,Arcaea,2,FTR,9,9.1,https://cdn.wikiwiki.jp/to/w/arcaea/ReviXy/::ref/ReviXy.jpg.webp
+116,Antithese,Blacklolita,172,877,Tairitsu,Absolute Reason,2,FTR,8.7,8.8,https://cdn.wikiwiki.jp/to/w/arcaea/Antithese/::ref/Antithese.jpg.webp
+117,Black Territory,DJ Myosuke,200,1195,Tairitsu,Absolute Reason,2,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/Black Territory/::ref/Black Territory.jpg.webp
+118,Corruption,3R2,170,1293,Tairitsu,Absolute Reason,2,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/Corruption/::ref/Corruption.jpg.webp
+119,Vicious Heroism,Kobaryo,256,1150,Tairitsu,Absolute Reason,2,FTR,10,10,https://cdn.wikiwiki.jp/to/w/arcaea/Vicious Heroism/::ref/Vicious Heroism.jpg.webp
+120,Cyaegha,USAO,200,1368,Tairitsu,Absolute Reason,2,FTR,10.7,10.7,https://cdn.wikiwiki.jp/to/w/arcaea/Cyaegha/::ref/Cyaegha.jpg.webp
+121,VECTOR,WHITEFISTS,200,1299,Tairitsu,Arcaea,2,FTR,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/VECTOЯ/::ref/VECTOЯ.jpg.webp
+122,SUPERNOVA,BACO,150,1123,Tairitsu,Arcaea,2,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/SUPERNOVA/::ref/SUPERNOVA.jpg.webp
+123,Dot to Dot feat. shully,Mameyudoufu,174,739,Hikari,Memory Archive,2,FTR,8,8.3,https://cdn.wikiwiki.jp/to/w/arcaea/Dot to Dot feat. shully/::ref/Dot to Dot feat. shully.jpg.webp
+124,Garakuta Doll Play,t+pazolite,256,1035,Tairitsu,CHUNITHM,2.01,FTR,10,10.4,https://cdn.wikiwiki.jp/to/w/arcaea/Garakuta Doll Play/::ref/Garakuta Doll Play.jpg.webp
+125,怒槌,光吉猛修,200,1347,Tairitsu,CHUNITHM,2.01,FTR,10,10.3,https://cdn.wikiwiki.jp/to/w/arcaea/%E6%80%92%E6%A7%8C/::ref/Ikazuchi.jpg.webp
+126,World Vanquisher,Void (Mournfinale),170,1452,Hikari,CHUNITHM,2.01,FTR,10.7,10.7,https://cdn.wikiwiki.jp/to/w/arcaea/World Vanquisher/::ref/World Vanquisher.jpg.webp
+127,Dreadnought,Mastermind (xi + nora2r),384,1099,Tairitsu,Memory Archive,2.02,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/Dreadnought/::ref/Dreadnought.jpg.webp
+128,Vindication,Laur,174,1075,Hikari,Adverse Prelude,2.02,FTR,9,9.6,https://cdn.wikiwiki.jp/to/w/arcaea/Vindication/::ref/Vindication.jpg.webp
+129,Heavensdoor,LeaF,240,1101,Tairitsu,Adverse Prelude,2.02,FTR,9.7,9.9,https://cdn.wikiwiki.jp/to/w/arcaea/Heavensdoor/::ref/Heavensdoor.jpg
+130,Ringed Genesis,Edelritter,160,1146,Hikari,Adverse Prelude,2.02,FTR,10.7,10.8,https://cdn.wikiwiki.jp/to/w/arcaea/Ringed Genesis/::ref/Ringed Genesis.jpg.webp
+131,Chelsea,7mai,174,650,Hikari,Sunset Radiance,2.03,FTR,8.7,8.9,https://cdn.wikiwiki.jp/to/w/arcaea/Chelsea/::ref/Chelsea.jpg.webp
+132,AI[UE]OON,MYUKKE.,145,989,Hikari,Sunset Radiance,2.03,FTR,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/AI_UE_OON/::ref/AI_UE_OON.jpg.webp
+133,迷える音色は恋の唄,からとPanchii少年 feat.はるの,165,931,Hikari,Sunset Radiance,2.03,FTR,9,9.6,https://cdn.wikiwiki.jp/to/w/arcaea/%E8%BF%B7%E3%81%88%E3%82%8B%E9%9F%B3%E8%89%B2%E3%81%AF%E6%81%8B%E3%81%AE%E5%94%84/::ref/A%20Wandering%20Melody%20of%20Love.jpg.webp
+134,Tie me down gently,溝口ゆうま feat. 大瀬良あい,191,724,Tairitsu,Sunset Radiance,2.03,FTR,8,8.3,https://cdn.wikiwiki.jp/to/w/arcaea/Tie me down gently/::ref/Tie me down gently.jpg.webp
+135,Valhalla:0,Juggernaut.,200,1173,Tairitsu,Sunset Radiance,2.03,FTR,10,10.2,https://cdn.wikiwiki.jp/to/w/arcaea/Valhalla_0/::ref/Valhalla_0.jpg.webp
+136,Mirzam,Aoi vs. siqlo,201,1303,Tairitsu,Memory Archive,2.03,FTR,9.7,9.9,https://cdn.wikiwiki.jp/to/w/arcaea/Mirzam/::ref/Mirzam.jpg.webp
+137,Diode,Kolaa,132,709,Hikari,Arcaea,2.04,FTR,8,8.1,https://cdn.wikiwiki.jp/to/w/arcaea/Diode/::ref/Diode.jpg.webp
+138,FREEF4LL,YUKIYANAGI,170,1023,Tairitsu,Arcaea,2.04,FTR,8,8.6,https://cdn.wikiwiki.jp/to/w/arcaea/FREEF4LL/::ref/FREEF4LL.jpg.webp
+139,GLORY：ROAD,uma vs. モリモリあつし,250,1479,Hikari,Crimson Solace,2.04,FTR,10,10.5,https://cdn.wikiwiki.jp/to/w/arcaea/GLORY%EF%BC%9AROAD/::ref/GLORY_ROAD.jpg.webp
+140,Monochrome Princess,polysha,160,974,Tairitsu,Arcaea,2.04,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/Monochrome Princess/::ref/Monochrome Princess.jpg.webp
+141,Heavenly caress,Noah,241,1560,Hikari,Memory Archive,2.04,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/Heavenly caress/::ref/Heavenly caress.jpg.webp
+142,Senkyou,MYTK,90,964,Hikari,Arcaea,2.04,FTR,8.7,8.7,https://cdn.wikiwiki.jp/to/w/arcaea/Senkyou/::ref/Senkyou.jpg.webp
+143,Filament,Puru,170,991,Hikari,Memory Archive,2.04,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/Filament/::ref/Filament.jpg.webp
+144,Avant Raze,Sampling Masters MEGA,200,1125,Tairitsu,Memory Archive,2.04,FTR,9,9.6,https://cdn.wikiwiki.jp/to/w/arcaea/Avant Raze/::ref/Avant Raze.jpg.webp
+145,BATTLE NO.1,TANO*C Sound Team,200,1042,Tairitsu,Memory Archive,2.04,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/BATTLE NO.1/::ref/BATTLE NO.1.jpg.webp
+146,La'qryma of the Wasteland,DJ Noriken,168,956,Tairitsu,Memory Archive,2.05,FTR,9,9.1,https://cdn.wikiwiki.jp/to/w/arcaea/La'qryma of the Wasteland/::ref/La'qryma of the Wasteland.jpg.webp
+147,Einherjar Joker,DJ Genki vs Gram,222,1159,Tairitsu,Memory Archive,2.05,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/Einherjar Joker/::ref/Einherjar Joker.jpg.webp
+148,IZANA,t+pazolite vs P*Light,222,976,Hikari,Memory Archive,2.05,FTR,10,10.3,https://cdn.wikiwiki.jp/to/w/arcaea/IZANA/::ref/IZANA.jpg.webp
+149,最強STRONGER,REDALiCE vs USAO,205,1384,Tairitsu,Memory Archive,2.05,FTR,11,11,https://cdn.wikiwiki.jp/to/w/arcaea/%E6%9C%80%E5%BC%B7STRONGER/::ref/SAIKYO%20STRONGER.jpg.webp
+150,world.execute(me);,Mili,130,851,Hikari,Arcaea,2.05,FTR,8,8,https://cdn.wikiwiki.jp/to/w/arcaea/world.execute%28me%29%3B/::ref/world-execute-me.jpg.webp
+151,BLRINK,Sta,115,1015,Tairitsu,Adverse Prelude,2.05,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/BLRINK/::ref/BLRINK.jpg.webp
+152,Oblivia,Saiph,180,956,Hikari,Arcaea,2.06,FTR,8,8.3,https://cdn.wikiwiki.jp/to/w/arcaea/Oblivia/::ref/Oblivia.jpg.webp
+153,amygdata,nitro,154,1199,Tairitsu,Memory Archive,2.06,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/amygdata/::ref/amygdata.jpg.webp
+154,corps-sans-organes,cybermiso,105,1077,Tairitsu,Ambivalent Vision,2.06,FTR,10,10.6,https://cdn.wikiwiki.jp/to/w/arcaea/corps-sans-organes/::ref/corps-sans-organes.jpg.webp
+155,Equilibrium,Maozon,180,951,Hikari,Black Fate,3,FTR,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/Equilibrium/::ref/Equilibrium.jpg.webp
+156,Antagonism,Yooh vs. siromaru,160,1142,Tairitsu,Black Fate,3,FTR,9.7,9.9,https://cdn.wikiwiki.jp/to/w/arcaea/Antagonism/::ref/Antagonism.jpg.webp
+157,Lost Desire,Powerless feat. Sennzai,170,1154,Tairitsu,Black Fate,3,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/Lost Desire/::ref/Lost Desire.jpg.webp
+158,Dantalion,Team Grimoire,186,1476,Tairitsu,Black Fate,3,FTR,10.7,10.8,https://cdn.wikiwiki.jp/to/w/arcaea/Dantalion/::ref/Dantalion.jpg.webp
+159,#1f1e33,かめりあ(EDP),181,1576,Tairitsu,Black Fate,3,FTR,11,11.1,https://cdn.wikiwiki.jp/to/w/arcaea/_1f1e33/::ref/%231f1e33-2.jpg.webp
+160,Tempestissimo,t+pazolite,231,1254,Tairitsu,Black Fate,3,FTR,10.7,10.7,https://cdn.wikiwiki.jp/to/w/arcaea/Tempestissimo/::ref/Tempestissimo.jpg.webp
+161,Arcahv,Feryquitous,191,1065,Hikari,Black Fate,3,FTR,9.7,9.9,https://cdn.wikiwiki.jp/to/w/arcaea/Arcahv/::ref/Arcahv.jpg.webp
+162,Vivid Theory,ak+q,178,885,Hikari,Extend Archive,3,FTR,8.7,8.8,https://cdn.wikiwiki.jp/to/w/arcaea/Vivid Theory/::ref/Vivid Theory.jpg.webp
+163,1F√,WHITEFISTS,130,758,Hikari,Extend Archive,3,FTR,8,8.2,https://cdn.wikiwiki.jp/to/w/arcaea/1F√/::ref/1F√.jpg.webp
+164,Gekka (Short Version),Nhato,132,817,Hikari,Extend Archive,3,FTR,8,8.6,https://cdn.wikiwiki.jp/to/w/arcaea/Gekka (Short Version)/::ref/Gekka (Short Version).jpg.webp
+165,Give Me a Nightmare,アリスシャッハと魔法の楽団,190,948,Tairitsu,Extend Archive,3,FTR,8.7,8.9,https://cdn.wikiwiki.jp/to/w/arcaea/Give Me a Nightmare/::ref/Give Me a Nightmare.jpg.webp
+166,Black Lotus,wa.,200,965,Tairitsu,Extend Archive,3,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/Black Lotus/::ref/Black Lotus.jpg.webp
+167,Altale,Sakuzyo,90,690,Hikari,Memory Archive,3,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/Altale/::ref/Altale.jpg.webp
+168,Faint Light (Arcaea Edit),Taishi,133,809,Hikari,Extend Archive,3,FTR,9,9.1,https://cdn.wikiwiki.jp/to/w/arcaea/Faint Light (Arcaea Edit)/::ref/Faint Light (Arcaea Edit).jpg.webp
+169,Feels So Right feat. Renko,Mysteka,180,947,Hikari,Memory Archive,3,FTR,9,9.3,https://cdn.wikiwiki.jp/to/w/arcaea/Feels So Right feat. Renko/::ref/Feels So Right feat. Renko.jpg.webp
+170,Scarlet Cage,Daisuke Kurosawa,166,1195,Tairitsu,Memory Archive,3,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/Scarlet Cage/::ref/Scarlet Cage.jpg.webp
+171,Teriqma,owl*tree,128,873,Tairitsu,Memory Archive,3,FTR,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/Teriqma/::ref/Teriqma.jpg.webp
+172,MAHOROBA,Zekk,195,828,Hikari,Memory Archive,3,FTR,9,9.5,https://cdn.wikiwiki.jp/to/w/arcaea/MAHOROBA/::ref/MAHOROBA.jpg.webp
+173,Vexaria,ak+q,180,785,Hikari,Arcaea,3,BYD,9,9,https://cdn.wikiwiki.jp/to/w/arcaea/Vexaria/::ref/Vexaria-b.jpg.webp
+174,Fairytale,chitose,189,932,Hikari,Arcaea,3,BYD,9,9.5,https://cdn.wikiwiki.jp/to/w/arcaea/Fairytale/::ref/Fairytale-b.jpg.webp
+175,Infinity Heaven,HyuN,160,986,Hikari,Arcaea,3,BYD,9,9.6,https://cdn.wikiwiki.jp/to/w/arcaea/Infinity%20Heaven/::ref/Infinity%20Heaven-b.jpg.webp
+176,GOODTEK(Arcaea Edit),EBIMAYO,190,1103,Hikari,Arcaea,3,BYD,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/GOODTEK%20%28Arcaea%20Edit%29/::ref/GOODTEK%20%28Arcaea%20Edit%29-b.jpg.webp
+177,Tempestissimo,t+pazolite,231,1540,Tairitsu,Black Fate,3,BYD,11,11.7,https://cdn.wikiwiki.jp/to/w/arcaea/Tempestissimo/::ref/Tempestissimo-b.jpg.webp
+178,BADTEK,EBIMAYO,190,916,Tairitsu,Memory Archive,3.01,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/BADTEK/::ref/BADTEK.jpg.webp
+179,Malicious Mischance,s-don,155,1126,Tairitsu,Memory Archive,3.01,FTR,10,10.2,https://cdn.wikiwiki.jp/to/w/arcaea/Malicious Mischance/::ref/Malicious Mischance.jpg.webp
+180,Purgatorium,お月さま交響曲,150,1051,Tairitsu,Arcaea,3.01,BYD,9,9.6,https://cdn.wikiwiki.jp/to/w/arcaea/Purgatorium/::ref/Purgatorium-b.jpg.webp
+181,Dement ~after legend~,Cosmograph,210,1040,Tairitsu,Arcaea,3.01,BYD,9.7,9.9,https://cdn.wikiwiki.jp/to/w/arcaea/Dement%20~after%20legend~/::ref/Dement%20~after%20legend~-b.jpg.webp
+182,Got hive of Ra,E.G.G,268,794,Hikari,Groove Coaster,3.02,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/Got hive of Ra/::ref/Got hive of Ra.jpg.webp
+183,BUCHiGiRE Berserker,REDALiCE vs MASAKI,200,1412,Tairitsu,Memory Archive,3.02,FTR,10.7,10.8,https://cdn.wikiwiki.jp/to/w/arcaea/BUCHiGiRE Berserker/::ref/BUCHiGiRE Berserker.jpg.webp
+184,Galaxy Friends,Kobaryo,300,1013,Tairitsu,Memory Archive,3.02,FTR,9.7,9.9,https://cdn.wikiwiki.jp/to/w/arcaea/Galaxy Friends/::ref/Galaxy Friends.jpg.webp
+185,CROSS♰OVER,HyuN Feat. LyuU,200,1094,Tairitsu,Extend Archive,3.02,FTR,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/CROSS†OVER/::ref/CROSS†OVER.jpg.webp
+186,Lapis,SHIKI,146,920,Hikari,Extend Archive,3.02,FTR,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/Lapis/::ref/Lapis.jpg.webp
+187,Xeraphinite,BlavkY,146,1048,Hikari,Memory Archive,3.02,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/Xeraphinite/::ref/Xeraphinite.jpg.webp
+188,Xanatos,Tatsh,170,1232,Tairitsu,Memory Archive,3.02,FTR,10,10,https://cdn.wikiwiki.jp/to/w/arcaea/Xanatos/::ref/Xanatos.jpg.webp
+189,Lumia,sky_delta,180,814,Hikari,Arcaea,3.02,BYD,9,9.5,https://cdn.wikiwiki.jp/to/w/arcaea/Lumia/::ref/Lumia-b.jpg.webp
+190,Alice a la mode,Masanori Akita,134,872,Hikari,Ephemeral Page,3.03,FTR,9,9.2,https://cdn.wikiwiki.jp/to/w/arcaea/Alice a la mode/::ref/Alice a la mode.jpg.webp
+191,Eccentric Tale,Yamajet,132,732,Tairitsu,Ephemeral Page,3.03,FTR,8,8.4,https://cdn.wikiwiki.jp/to/w/arcaea/Eccentric Tale/::ref/Eccentric Tale.jpg.webp
+192,Alice's Suitcase,Endorfin.,190,999,Hikari,Ephemeral Page,3.03,FTR,9,9.1,https://cdn.wikiwiki.jp/to/w/arcaea/Alice's Suitcase/::ref/Alice's Suitcase.jpg.webp
+193,Jump,Rasmus Faber,133,841,Hikari,Ephemeral Page,3.03,FTR,9,9,https://cdn.wikiwiki.jp/to/w/arcaea/Jump/::ref/Jump.jpg.webp
+194,Felis,M2U,155,1153,Hikari,Ephemeral Page,3.03,FTR,10,10.4,https://cdn.wikiwiki.jp/to/w/arcaea/Felis/::ref/Felis.jpg.webp
+195,Purple Verse,Hommarju,170,1023,Tairitsu,Extend Archive,3.03,FTR,9,9.6,https://cdn.wikiwiki.jp/to/w/arcaea/Purple Verse/::ref/Purple Verse.jpg.webp
+196,Beside You,江口孝宏,181,703,Hikari,Ephemeral Page,3.03,FTR,8.7,8.7,https://cdn.wikiwiki.jp/to/w/arcaea/Beside You/::ref/Beside You.jpg.webp
+197,Heart Jackin',Yu_Asahina,160,1112,Hikari,Ephemeral Page,3.03,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/Heart Jackin'/::ref/Heart Jackin'.jpg.webp
+198,アリス・リデルに捧ぐ,モリモリあつし,222,998,Tairitsu,Ephemeral Page,3.03,FTR,10,10.3,https://cdn.wikiwiki.jp/to/w/arcaea/%E3%82%A2%E3%83%AA%E3%82%B9%E3%83%BB%E3%83%AA%E3%83%87%E3%83%AB%E3%81%AB%E6%8D%A7%E3%81%90/::ref/To_%20Alice%20Liddell.jpg.webp
+199,Lazy Addiction,sky_delta,185,1031,Hikari,O.N.G.E.K.I.,3.04,FTR,9,9.6,https://cdn.wikiwiki.jp/to/w/arcaea/Lazy Addiction/::ref/Lazy Addiction.jpg.webp
+200,Dazzle hop,Sampling Masters MEGA,220,1022,Tairitsu,O.N.G.E.K.I.,3.04,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/Dazzle hop/::ref/Dazzle hop.jpg.webp
+201,Viyella's Tears,Laur,218,1403,Tairitsu,O.N.G.E.K.I.,3.04,FTR,10,10.3,https://cdn.wikiwiki.jp/to/w/arcaea/Viyella's Tears/::ref/Viyella's Tears.jpg.webp
+202,ω4,穴山大輔 VS 光吉猛修 VS Kai,192,1393,Hikari,O.N.G.E.K.I.,3.04,FTR,10.7,10.8,https://cdn.wikiwiki.jp/to/w/arcaea/ω4/::ref/ω4.jpg.webp
+203,四月の雨,cubesato,79,697,Hikari,maimai,3.04,FTR,8,8.3,https://cdn.wikiwiki.jp/to/w/arcaea/%E5%9B%9B%E6%9C%88%E3%81%AE%E9%9B%A8/::ref/April%20showers.jpg.webp
+204,7thSense,削除,150,925,Tairitsu,maimai,3.04,FTR,9.7,9.9,https://cdn.wikiwiki.jp/to/w/arcaea/7thSense/::ref/7thSense.jpg
+205,Oshama Scramble!,t+pazolite,190,1073,Hikari,maimai,3.04,FTR,10,10,https://cdn.wikiwiki.jp/to/w/arcaea/Oshama Scramble!/::ref/Oshama Scramble!.jpg
+206,AMAZING MIGHTYYYY!!!!,WAiKURO,185,1249,Tairitsu,maimai,3.04,FTR,10.7,10.7,https://cdn.wikiwiki.jp/to/w/arcaea/AMAZING MIGHTYYYY!!!!/::ref/AMAZING MIGHTYYYY!!!!.jpg
+207,Moonheart,翡乃イスカ,180,1139,Hikari,Ambivalent Vision,3.04,BYD,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/Moonheart/::ref/Moonheart-b.jpg.webp
+208,Climax,USAO,190,1367,Tairitsu,CHUNITHM,3.05,FTR,10,10.4,https://cdn.wikiwiki.jp/to/w/arcaea/Climax/::ref/Climax.jpg.webp
+209,Last Celebration,Laur vs CK,238,1475,Tairitsu,CHUNITHM,3.05,FTR,10,10.4,https://cdn.wikiwiki.jp/to/w/arcaea/Last Celebration/::ref/Last Celebration.jpg.webp
+210,業 -善なる神とこの世の悪について-,光吉猛修 VS 穴山大輔,190,1522,Hikari,CHUNITHM,3.05,FTR,10.7,10.9,https://cdn.wikiwiki.jp/to/w/arcaea/%E6%A5%AD%20-%E5%96%84%E3%81%AA%E3%82%8B%E7%A5%9E%E3%81%A8%E3%81%93%E3%81%AE%E4%B8%96%E3%81%AE%E6%82%AA%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-/::ref/Misdeed%20-la%20bonte%20de%20Dieu%20et%20l%27origine%20du%20mal-.jpg.webp
+211,AttraqtiA,かめりあ,202,1433,Hikari,Memory Archive,3.05,FTR,10,10.6,https://cdn.wikiwiki.jp/to/w/arcaea/AttraqtiA/::ref/AttraqtiA.jpg.webp
+212,Glow,SPACELECTRO,165,916,Tairitsu,Extend Archive,3.05,FTR,9,9.3,https://cdn.wikiwiki.jp/to/w/arcaea/Glow/::ref/Glow.jpg.webp
+213,enchanted love,linear ring,95,759,Hikari,Extend Archive,3.05,FTR,8,8.4,https://cdn.wikiwiki.jp/to/w/arcaea/enchanted love/::ref/enchanted love.jpg.webp
+214,竹,立秋 feat. ちょこ,315,1050,Hikari,Extend Archive,3.05,FTR,10,10,https://cdn.wikiwiki.jp/to/w/arcaea/%E7%AB%B9/::ref/Bamboo.jpg.webp
+215,GIMME DA BLOOD,C-Show,110,1093,Tairitsu,Memory Archive,3.05,FTR,10,10.5,https://cdn.wikiwiki.jp/to/w/arcaea/GIMME DA BLOOD/::ref/GIMME DA BLOOD.jpg.webp
+216,ベースラインやってる？w,かめりあ feat. ななひら,128,861,Hikari,Memory Archive,3.05,FTR,9,9.3,https://cdn.wikiwiki.jp/to/w/arcaea/%E3%83%99%E3%83%BC%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%84%E3%81%A3%E3%81%A6%E3%82%8B%EF%BC%9Fw/::ref/Can%20I%20Friend%20You%20On%20Bassbook%3F%20Lol.jpg.webp
+217,Life is PIANO,Junk,133,674,Hikari,Extend Archive,3.05,FTR,9,9.1,https://cdn.wikiwiki.jp/to/w/arcaea/Life is PIANO/::ref/Life is PIANO.jpg.webp
+218,Paper Witch,Yu-dachi,130,793,Hikari,Esoteric Order,3.06,FTR,8.7,8.7,https://cdn.wikiwiki.jp/to/w/arcaea/Paper Witch/::ref/Paper Witch.jpg.webp
+219,Crystal Gravity,Tanchiky vs. siromaru,178,872,Tairitsu,Esoteric Order,3.06,FTR,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/Crystal Gravity/::ref/Crystal Gravity.jpg.webp
+220,Far Away Light,technoplanet feat. はるの & 黒沢ダイスケ,216,1322,Hikari,Esoteric Order,3.06,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/Far%20Away%20Light/::ref/Far%20Away%20Light-fixed.jpg.webp
+221,Löschen,BlackY feat. Risa Yuzuki,181,1235,Tairitsu,Esoteric Order,3.06,FTR,10,10.2,https://cdn.wikiwiki.jp/to/w/arcaea/Löschen/::ref/Löschen.jpg.webp
+222,Aegleseeker,Silentroom vs Frums,234,1568,Hikari,Esoteric Order,3.06,FTR,11,11.2,https://cdn.wikiwiki.jp/to/w/arcaea/Aegleseeker/::ref/Aegleseeker.jpg.webp
+223,Coastal Highway,Glitch Droids,110,732,Hikari,Esoteric Order,3.06,FTR,9,9.1,https://cdn.wikiwiki.jp/to/w/arcaea/Coastal Highway/::ref/Coastal Highway.jpg.webp
+224,ΟΔΥΣΣΕΙΑ,Sober Bear,174,1092,Tairitsu,Esoteric Order,3.06,FTR,9,9.5,https://cdn.wikiwiki.jp/to/w/arcaea/ΟΔΥΣΣΕΙΑ/::ref/ΟΔΥΣΣΕΙΑ.jpg.webp
+225,Overwhelm,xi,200,1251,Hikari,Esoteric Order,3.06,FTR,10,10.6,https://cdn.wikiwiki.jp/to/w/arcaea/Overwhelm/::ref/Overwhelm.jpg.webp
+226,Vandalism,Ashrount,194,1087,Tairitsu,Extend Archive,3.06,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/Vandalism/::ref/Vandalism.jpg.webp
+227,Turbocharger,A/I,170,979,Hikari,Extend Archive,3.06,FTR,9,9,https://cdn.wikiwiki.jp/to/w/arcaea/Turbocharger/::ref/Turbocharger.jpg.webp
+228,THE ULTIMACY,aran vs Massive New Krew,200,1304,Tairitsu,Memory Archive,3.06,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/THE%20ULTIMACY/::ref/THE%20ULTIMACY.jpg.webp
+229,烈華RESONANCE,REDALiCE vs Kobaryo,240,1212,Hikari,Memory Archive,3.06,FTR,10.7,10.7,https://cdn.wikiwiki.jp/to/w/arcaea/%E7%83%88%E8%8F%AFRESONANCE/::ref/REKKA%20RESONANCE.jpg.webp
+230,next to you,uma feat. 橘花音,165,954,Hikari,Binary Enfold,3.06,BYD,9,9.6,https://cdn.wikiwiki.jp/to/w/arcaea/next%20to%20you/::ref/next%20to%20you-b.jpg.webp
+231,Lost Civilization,Laur vs CK,210,1061,Tairitsu,Arcaea,3.06,BYD,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/Lost%20Civilization/::ref/Lost%20Civilization-b.jpg.webp
+232,La'qryma of the Wasteland,DJ Noriken,168,1161,Tairitsu,Memory Archive,3.06,BYD,10,10,https://cdn.wikiwiki.jp/to/w/arcaea/La%27qryma%20of%20the%20Wasteland/::ref/La%27qryma%20of%20the%20Wasteland.jpg.webp
+233,Bookmaker (2D Version),Kobaryo,175,1287,Tairitsu,Arcaea,3.06,BYD,10,10,https://cdn.wikiwiki.jp/to/w/arcaea/Bookmaker%20%282D%20Version%29/::ref/Bookmaker%20%282D%20Version%29-b.jpg.webp
+234,Small Cloud Sugar Candy,テヅカ × Aoi feat.桃雛なの,220,919,Hikari,Esoteric Order,3.07,FTR,9,9.3,https://cdn.wikiwiki.jp/to/w/arcaea/Small Cloud Sugar Candy/::ref/Small Cloud Sugar Candy.jpg.webp
+235,AlterAle,Arik Kau Delay (アラ&かゆき&でり),245,1277,Hikari,Esoteric Order,3.07,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/AlterAle/::ref/AlterAle.jpg.webp
+236,光速神授説 - Divine Light of Myriad -,yoho,172,1021,Hikari,Esoteric Order,3.07,FTR,10.7,10.8,https://cdn.wikiwiki.jp/to/w/arcaea/%E5%85%89%E9%80%9F%E7%A5%9E%E6%8E%88%E8%AA%AC%20-%20Divine%20Light%20of%20Myriad%20-/::ref/Divine%20Light%20of%20Myriad.jpg.webp
+237,Seclusion,Laur feat. Sennzai,175,1132,Tairitsu,Esoteric Order,3.07,FTR,10,10.6,https://cdn.wikiwiki.jp/to/w/arcaea/Seclusion/::ref/Seclusion.jpg.webp
+238,狂言綺語,影虎。& ikaruga_nex,155,969,Tairitsu,Extend Archive,3.07,FTR,9,9.3,https://cdn.wikiwiki.jp/to/w/arcaea/%E7%8B%82%E8%A8%80%E7%B6%BA%E8%AA%9E/::ref/False%20Embellishment.jpg.webp
+239,HIVEMIND,かたぎり,252,1252,Tairitsu,Extend Archive,3.07,FTR,10,10,https://cdn.wikiwiki.jp/to/w/arcaea/HIVEMIND/::ref/HIVEMIND.jpg.webp
+240,Quon,DJ Noriken,170,749,Tairitsu,WACCA,3.08,FTR,8.7,8.7,https://cdn.wikiwiki.jp/to/w/arcaea/Quon%E3%80%90WACCA%E3%80%91/::ref/Quon.jpg.webp
+241,with U,t+pazolite & Massive New Krew feat. リリィ(CV:青木志貴),155,932,Hikari,WACCA,3.08,FTR,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/with U/::ref/with U.jpg.webp
+242,Let you DIVE! (nitro rmx),nitro (lowiro),185,1049,Hikari,WACCA,3.08,FTR,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/Let you DIVE! (nitro rmx)/::ref/Let you DIVE! (nitro rmx).jpg.webp
+243,Mazy Metroplex,aran,155,952,Hikari,WACCA,3.08,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/Mazy Metroplex/::ref/Mazy Metroplex.jpg.webp
+244,GENOCIDER,DJ Myosuke,390,1483,Tairitsu,WACCA,3.08,FTR,10.7,10.8,https://cdn.wikiwiki.jp/to/w/arcaea/GENOCIDER/::ref/GENOCIDER.jpg.webp
+245,Sheriruth (Laur Remix),Laur,200,1134,Tairitsu,Memory Archive,3.08,FTR,10,10.5,https://cdn.wikiwiki.jp/to/w/arcaea/Sheriruth (Laur Remix)/::ref/Sheriruth (Laur Remix).jpg
+246,緋纏いの宵,Freezer feat.妃苺,170,922,Tairitsu,Memory Archive,3.08,FTR,9,9.5,https://cdn.wikiwiki.jp/to/w/arcaea/%E7%B7%8B%E7%BA%8F%E3%81%84%E3%81%AE%E5%AE%B5/::ref/Evening%20in%20Scarlet.jpg.webp
+247,blue comet,ああああ,172,776,Hikari,Extend Archive,3.08,FTR,8,8.2,https://cdn.wikiwiki.jp/to/w/arcaea/blue comet/::ref/blue comet.jpg.webp
+248,ENERGY SYNERGY MATRIX,Tanchiky,160,922,Tairitsu,Extend Archive,3.08,FTR,9,9.6,https://cdn.wikiwiki.jp/to/w/arcaea/ENERGY SYNERGY MATRIX/::ref/ENERGY SYNERGY MATRIX.jpg.webp
+249,G e n g a o z o,-45,153,1353,Tairitsu,Extend Archive,3.08,FTR,10,10.1,https://cdn.wikiwiki.jp/to/w/arcaea/G e n g a o z o/::ref/G e n g a o z o.jpg.webp
+250,goldenslaughterer,zts,133,1326,Tairitsu,Memory Archive,3.08,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/goldenslaughterer/::ref/goldenslaughterer.jpg.webp
+251,lastendconductor,zts,139,1209,Tairitsu,Memory Archive,3.08,FTR,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/lastendconductor/::ref/lastendconductor.jpg.webp
+252,Redolent Shape,Sanaas,150,1088,Tairitsu,Memory Archive,3.08,FTR,10,10.2,https://cdn.wikiwiki.jp/to/w/arcaea/Redolent Shape/::ref/Redolent Shape.jpg.webp
+253,Quon,DJ Noriken,170,1044,Tairitsu,WACCA,3.08,BYD,10,10.2,https://cdn.wikiwiki.jp/to/w/arcaea/Quon%E3%80%90WACCA%E3%80%91/::ref/Quon.jpg.webp
+254,lastendconductor,zts,139,1339,Tairitsu,Memory Archive,3.08,BYD,10,10.2,https://cdn.wikiwiki.jp/to/w/arcaea/lastendconductor/::ref/lastendconductor.jpg.webp
+255,Cosmica,Nhato,110,773,Tairitsu,Binary Enfold,3.09,FTR,8.7,8.8,https://cdn.wikiwiki.jp/to/w/arcaea/Cosmica/::ref/Cosmica.jpg.webp
+256,Ascent,TANUKI,145,1023,Hikari,Binary Enfold,3.09,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/Ascent/::ref/Ascent.jpg.webp
+257,Live Fast Die Young,anubasu-anubasu,153,1292,Hikari,Binary Enfold,3.09,FTR,10,10.6,https://cdn.wikiwiki.jp/to/w/arcaea/Live Fast Die Young/::ref/Live Fast Die Young.jpg.webp
+258,彩る夏の恋花火,karatoPαnchii feat. はるの,160,1088,Hikari,Memory Archive,3.09,FTR,9.7,9.9,https://cdn.wikiwiki.jp/to/w/arcaea/%E5%BD%A9%E3%82%8B%E5%A4%8F%E3%81%AE%E6%81%8B%E8%8A%B1%E7%81%AB/::ref/Summer%20Fireworks%20of%20Love.jpg.webp
+259,First Snow,黒魔,88,578,Hikari,Divided Heart,3.1,FTR,7.7,7.7,https://cdn.wikiwiki.jp/to/w/arcaea/First Snow/::ref/First Snow.jpg.webp
+260,Blue Rose,Cosmograph,295,955,Hikari,Divided Heart,3.1,FTR,9,9.1,https://cdn.wikiwiki.jp/to/w/arcaea/Blue Rose/::ref/Blue Rose.jpg.webp
+261,Blocked Library,影虎。,148,850,Tairitsu,Divided Heart,3.1,FTR,9,9.3,https://cdn.wikiwiki.jp/to/w/arcaea/Blocked Library/::ref/Blocked Library.jpg.webp
+262,nέο κόsmo,ak+q × Street,190,979,Tairitsu,Divided Heart,3.1,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/nέο κόsmo/::ref/nέο κόsmo.jpg.webp
+263,Lightning Screw,HiTECH NINJA,190,1192,Hikari,Divided Heart,3.1,FTR,10,10.5,https://cdn.wikiwiki.jp/to/w/arcaea/Lightning Screw/::ref/Lightning Screw.jpg.webp
+264,神奈川電脳暗渠,南ゆに,180,1121,Hikari,Arcaea,3.1,BYD,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/%E7%A5%9E%E5%A5%88%E5%B7%9D%E9%9B%BB%E8%84%B3%E6%9A%97%E6%B8%A0/::ref/Kanagawa%20Cyber%20Culvert-b.jpg.webp
+265,qualia -ideaesthesia-,nitro,144,1288,Tairitsu,Arcaea,3.1,BYD,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/qualia%20-ideaesthesia-/::ref/qualia%20-ideaesthesia--b.jpg.webp
+266,Antithese,Blacklolita,172,968,Tairitsu,Absolute Reason,3.1,BYD,9,9.6,https://cdn.wikiwiki.jp/to/w/arcaea/Antithese/::ref/Antithese-b.jpg.webp
+267,Heavensdoor,LeaF,240,1534,Tairitsu,Adverse Prelude,3.1,BYD,10.7,10.8,https://cdn.wikiwiki.jp/to/w/arcaea/Heavensdoor/::ref/Heavensdoor-b.jpg.webp
+268,PRAGMATISM -RESURRECTION-,Laur,174,1502,Hikari,Eternal Core,3.1,BYD,11,11.2,https://cdn.wikiwiki.jp/to/w/arcaea/PRAGMATISM/::ref/PRAGMATISM-b.jpg.webp
+269,Lights of Muse,Ayaytsugu_Otowa,180,580,Hikari,Muse Dash,3.11,FTR,8.7,8.7,https://cdn.wikiwiki.jp/to/w/arcaea/Lights of Muse/::ref/Lights of Muse.jpg.webp
+270,Final Step!,Lime,180,1056,Tairitsu,Muse Dash,3.11,FTR,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/Final Step!/::ref/Final Step!.jpg.webp
+271,秋の陽炎,karatoPannchii feat.はるの,180,1077,Hikari,Muse Dash,3.11,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/%E7%A7%8B%E3%81%AE%E9%99%BD%E7%82%8E/::ref/Haze%20of%20Autumn.jpg.webp
+272,Medusa,HiTECH NINJA,165,931,Tairitsu,Muse Dash,3.11,FTR,10,10.1,https://cdn.wikiwiki.jp/to/w/arcaea/Medusa/::ref/Medusa.jpg.webp
+273,init(),kamome sano,180,1204,Tairitsu,Memory Archive,3.11,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/init()/::ref/init().jpg.webp
+274,Avril -Flicka i krans-,Rigel Theatre,130,851,Hikari,Arcaea,3.12,FTR,8,8.3,https://cdn.wikiwiki.jp/to/w/arcaea/Ävril -Flicka i krans-/::ref/Ävril -Flicka i krans-.jpg.webp
+275,Sakura Fubuki,Street,175,837,Hikari,Arcaea,3.12,FTR,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/Sakura Fubuki/::ref/Sakura Fubuki.jpg.webp
+276,NULCTRL,Silentroom,100,715,Tairitsu,Arcaea,3.12,FTR,9,9.5,https://cdn.wikiwiki.jp/to/w/arcaea/NULCTRL/::ref/NULCTRL.jpg.webp
+277,INTERNET OVERDOSE,Aiobahn feat. KOTOKO,163,657,Hikari,Memory Archive,3.12,FTR,8,8.4,https://cdn.wikiwiki.jp/to/w/arcaea/INTERNET OVERDOSE/::ref/INTERNET OVERDOSE.jpg.webp
+278,Macrocosmic Modulation,JAKAZiD,170,1117,Hikari,Memory Archive,3.12,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/Macrocosmic Modulation/::ref/Macrocosmic Modulation.jpg.webp
+279,Kissing Lucifer,ETIA.,170,1183,Tairitsu,Memory Archive,3.12,FTR,10,10.4,https://cdn.wikiwiki.jp/to/w/arcaea/Kissing Lucifer/::ref/Kissing Lucifer.jpg.webp
+280,NEO WINGS,SOUND HOLIC feat. Nana Takahashi,168,1328,Tairitsu,Memory Archive,3.12,FTR,10,10.2,https://cdn.wikiwiki.jp/to/w/arcaea/NEO WINGS/::ref/NEO WINGS.jpg.webp
+281,Aurgelmir,溝口ゆうま feat. 大瀬良あい,230,1100,Tairitsu,Memory Archive,3.12,FTR,10,10.5,https://cdn.wikiwiki.jp/to/w/arcaea/Aurgelmir/::ref/Aurgelmir.jpg.webp
+282,DDD,はがね,138,653,Hikari,Arcaea,3.12,FTR,8,8.5,https://cdn.wikiwiki.jp/to/w/arcaea/DDD/::ref/DDD.jpg.webp
+283,Head BONK ache,saaa ft. MC iwata Bros.,165,1061,Tairitsu,Arcaea,3.12,FTR,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/Head BONK ache/::ref/Head BONK ache.jpg.webp
+284,Prism,bermei.inazawa ft. Chata,109,785,Hikari,Lanota,3.12,FTR,8,8,https://cdn.wikiwiki.jp/to/w/arcaea/Prism/::ref/Prism.jpg.webp
+285,Protoflicker,Silentroom,140,1042,Tairitsu,Lanota,3.12,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/Protoflicker/::ref/Protoflicker.jpg.webp
+286,Stasis,Maozon,180,1521,Hikari,Lanota,3.12,FTR,10.7,10.8,https://cdn.wikiwiki.jp/to/w/arcaea/Stasis/::ref/Stasis.jpg.webp
+287,ピコPico*とらんすれーしょんっ！,"t+pazolite,ななひら,Cranky,Pico*",185,1049,Tairitsu,Memory Archive,3.12,FTR,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/%E3%83%94%E3%82%B3Pico%2A%E3%81%A8%E3%82%89%E3%82%93%E3%81%99%E3%82%8C%E3%83%BC%E3%81%97%E3%82%87%E3%82%93%E3%81%A3%EF%BC%81/::ref/PICO-Pico-Translation%21.jpg.webp
+288,ネコノテ・カリタガール,Ino(chronoize),148,891,Hikari,Arcaea,3.12,FTR,9,9.2,https://cdn.wikiwiki.jp/to/w/arcaea/%E3%83%8D%E3%82%B3%E3%83%8E%E3%83%86%E3%83%BB%E3%82%AB%E3%83%AA%E3%82%BF%E3%82%AC%E3%83%BC%E3%83%AB/::ref/Dancin%27%20on%20A%20Cat%27s%20Paw.jpg.webp
+289,μ,Frums,190,1256,Hikari,Memory Archive,3.12,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/μ/::ref/μ.jpg.webp
+290,san skia,ユアミトス,170,1046,Hikari,Arcaea,3.12,FTR,8,8.3,https://cdn.wikiwiki.jp/to/w/arcaea/san skia/::ref/san skia.jpg.webp
+291,Ignotus Afterburn,Arcaea Sound Team,170,1077,Tairitsu,Arcaea,3.12,BYD,9.7,9.9,https://cdn.wikiwiki.jp/to/w/arcaea/Ignotus Afterburn/::ref/Ignotus Afterburn.jpg.webp
+292,Red and Blue and Green,fn(ArcaeaSoundTeam),160,1194,Tairitsu,Arcaea,3.12,BYD,10,10.2,https://cdn.wikiwiki.jp/to/w/arcaea/Red and Blue and Green/::ref/Red and Blue and Green.jpg.webp
+293,Singularity VVVIP,Arcaea Sound Team against. ETIA.,175,1114,Tairitsu,Binary Enfold,3.12,BYD,10,10.4,https://cdn.wikiwiki.jp/to/w/arcaea/Singularity VVVIP/::ref/Singularity VVVIP.jpg.webp
+294,overdead.,fn,500,1503,Tairitsu,Memory Archive,3.12,BYD,10,10.5,https://cdn.wikiwiki.jp/to/w/arcaea/overdead./::ref/overdead.jpg.webp
+295,MERLIN,REDALiCE,180,881,Hikari,Groove Coaster,3.12,BYD,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/MERLIN/::ref/MERLIN.jpg.webp
+296,OMAKENO Stroke,t+pazolite,240,931,Tairitsu,Groove Coaster,3.12,BYD,10,10.3,https://cdn.wikiwiki.jp/to/w/arcaea/OMAKENO Stroke/::ref/OMAKENO Stroke.jpg.webp
+297,Altair (feat. *spiLa*),kamome sano & you,170,830,Hikari,Arcaea,4,FTR,8,8.3,https://cdn.wikiwiki.jp/to/w/arcaea/Altair%20%28feat.%20%2AspiLa%2A%29/::ref/Altair%20%28feat.%20%2AspiLa%2A%29.jpg.webp
+298,無機質世界に彩を,MisomyL,155,886,Hikari,Arcaea,4,FTR,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/%E7%84%A1%E6%A9%9F%E8%B3%AA%E4%B8%96%E7%95%8C%E3%81%AB%E5%BD%A9%E3%82%92/::ref/Redraw%20the%20Colorless%20World.jpg.webp
+299,Trap Crow,Puru,80,1074,Tairitsu,Arcaea,4,FTR,9.7,9.9,https://cdn.wikiwiki.jp/to/w/arcaea/Trap Crow/::ref/Trap Crow.jpg.webp
+300,PUPA,モリモリあつし,202,1099,Tairitsu,Memory Archive,4,FTR,10,10.4,https://cdn.wikiwiki.jp/to/w/arcaea/PUPA/::ref/PUPA.jpg.webp
+301,Defection,TeddyLoid feat. DELTA,160,1141,Hikari,Final Verdict,4,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/Defection/::ref/Defection.jpg.webp
+302,"Infinite Strife,",BlackYooh vs. siromaru,198,1511,Tairitsu,Final Verdict,4,FTR,9.7,9.9,https://cdn.wikiwiki.jp/to/w/arcaea/Infinite%20Strife%2C/::ref/Infinite%20Strife.jpg.webp
+303,魔王,sasakure.UK × TJ.hangneil,280,1225,Hikari,Final Verdict,4,FTR,10,10,https://cdn.wikiwiki.jp/to/w/arcaea/%E9%AD%94%E7%8E%8B/::ref/World%20Ender.jpg.webp
+304,Pentiment,Noting But Requiem with Museo,222,1345,Tairitsu,Final Verdict,4,FTR,10,10.4,https://cdn.wikiwiki.jp/to/w/arcaea/Pentiment/::ref/Pentiment.jpg.webp
+305,Arcana Eden,Team Grimoire vs Sakuzyo,211,1792,Tairitsu,Final Verdict,4,FTR,10,10.5,https://cdn.wikiwiki.jp/to/w/arcaea/Arcana Eden/::ref/Arcana Eden.jpg.webp
+306,Testify,Void (Mournfinale) feat. 星熊南巫,178,1766,,Final Verdict,4,FTR,10.7,10.9,https://cdn.wikiwiki.jp/to/w/arcaea/Testify/::ref/Testify.jpg.webp
+307,Loveless Dress,かねこちはる,99,850,,Silent Answer,4,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/Loveless Dress/::ref/Loveless Dress.jpg.webp
+308,Last,onoken,175,831,,Silent Answer,4,FTR,9,9,https://cdn.wikiwiki.jp/to/w/arcaea/Last/::ref/Last.jpg.webp
+309,Callima Karma,t+pazolite vs Feryquitous,95,1222,,Silent Answer,4,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/Callima Karma/::ref/Callima Karma.jpg.webp
+310,"Infinite Strife,",BlackYooh vs. siromaru,198,1633,Tairitsu,Final Verdict,4,BYD,10.7,10.9,https://cdn.wikiwiki.jp/to/w/arcaea/Infinite%20Strife%2C/::ref/Infinite%20Strife.jpg.webp
+311,魔王,sasakure.UK × TJ.hangneil,280,1661,Hikari,Final Verdict,4,BYD,11,11.1,https://cdn.wikiwiki.jp/to/w/arcaea/%E9%AD%94%E7%8E%8B/::ref/World%20Ender.jpg.webp
+312,Pentiment,Noting But Requiem with Museo,222,1741,Tairitsu,Final Verdict,4,BYD,11,11.5,https://cdn.wikiwiki.jp/to/w/arcaea/Pentiment/::ref/Pentiment.jpg.webp
+313,Arcana Eden,Team Grimoire vs sakuzyo vs Laur,211,2134,Tairitsu,Final Verdict,4,BYD,11,11.6,https://cdn.wikiwiki.jp/to/w/arcaea/Arcana Eden/::ref/Arcana Eden.jpg.webp
+314,Testify,Void (Mournfinale) feat. 星熊南巫,178,2221,,Final Verdict,4,BYD,12,12,https://cdn.wikiwiki.jp/to/w/arcaea/Testify/::ref/Testify.jpg.webp
+315,Last|Moment,onoken,175,888,,Final Verdict,4,BYD,9,9.6,https://cdn.wikiwiki.jp/to/w/arcaea/Last/::ref/Last_Moment.jpg.webp
+316,Last|Eternity,onoken,175,790,,Final Verdict,4,BYD,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/Last/::ref/Last_Eternity.jpg.webp
+317,心,削除 (Violin：Katali),80,872,Hikari,O.N.G.E.K.I,4.01,FTR,9,9.6,https://cdn.wikiwiki.jp/to/w/arcaea/%E5%BF%83/::ref/Heart.jpg.webp
+318,Ai Drew,Feryquitous,175,1066,Tairitsu,O.N.G.E.K.I,4.01,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/Ai Drew/::ref/Ai Drew.jpg.webp
+319,FLUFFY FLASH,Kobaryo,252,1329,Hikari,O.N.G.E.K.I,4.01,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/FLUFFY FLASH/::ref/FLUFFY FLASH.jpg.webp
+320,"Good bye, Merry-Go-Round. ",Yooh,185,1084,Tairitsu,O.N.G.E.K.I,4.01,FTR,10,10.6,https://cdn.wikiwiki.jp/to/w/arcaea/Good%20bye%2C%20Merry-Go-Round./::ref/Good%20bye%2C%20Merry-Go-Round.jpg.webp
+321,LAMIA,BlackY,199,1385,Tairitsu,O.N.G.E.K.I,4.01,FTR,11,11,https://cdn.wikiwiki.jp/to/w/arcaea/LAMIA/::ref/LAMIA.jpg.webp
+322,Free Myself,lapix feat. mami,153,1132,Hikari,Memory Archive,4.01,FTR,10,10,https://cdn.wikiwiki.jp/to/w/arcaea/Free Myself/::ref/Free Myself.jpg.webp
+323,cocoro*cosmetic,KOTONOHOUSE,144,1025,Hikari,Memory Archive,4.01,FTR,9,9.2,https://cdn.wikiwiki.jp/to/w/arcaea/cocoro%2Acosmetic/::ref/cocoro_cosmetic.jpg.webp
+324,Capella,ARForest,210,1159,Hikari,Memory Archive,4.01,FTR,10,10.2,https://cdn.wikiwiki.jp/to/w/arcaea/Capella/::ref/Capella.jpg.webp
+325,だいあるのーと,七草くりむ,130,684,Hikari,Arcaea,4.01,FTR,8.7,8.8,https://cdn.wikiwiki.jp/to/w/arcaea/%E3%81%A0%E3%81%84%E3%81%82%E3%82%8B%E3%81%AE%E3%83%BC%E3%81%A8/::ref/Dialnote.jpg.webp
+326,FREEF4LL,YUKIYANAGI,170,1336,Tairitsu,Arcaea,4.01,BYD,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/FREEF4LL/::ref/FREEF4LL-b.jpg.webp
+327,Party Vinyl,モリモリあつし,132,946,Hikari,Crimson Solace,4.01,BYD,10,10.3,https://cdn.wikiwiki.jp/to/w/arcaea/Party%20Vinyl/::ref/Party%20Vinyl-b.jpg.webp
+328,月に叢雲華に風,幽閉サテライト,160,740,Tairitsu,World Extend,4.02,FTR,8.7,8.7,https://cdn.wikiwiki.jp/to/w/arcaea/%E6%9C%88%E3%81%AB%E5%8F%A2%E9%9B%B2%E8%8F%AF%E3%81%AB%E9%A2%A8/::ref/Tsuki%20ni%20Murakumo.jpg.webp
+329,MANTIS (Arcaea Ultra-Bloodrush VIP),Akira Complex feat. Kiraku,135,1014,Tairitsu,World Extend,4.02,FTR,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/MANTIS (Arcaea Ultra-Bloodrush VIP)/::ref/MANTIS (Arcaea Ultra-Bloodrush VIP).jpg.webp
+330,World Fragments III(radio edit),xi,200,1387,Hikari,World Extend,4.02,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/World Fragments III(radio edit)/::ref/World Fragments III(radio edit).jpg.webp
+331,Astra walkthrough,paraoka,225,1191,Tairitsu,World Extend,4.02,FTR,9.7,9.9,https://cdn.wikiwiki.jp/to/w/arcaea/Astra walkthrough/::ref/Astra walkthrough.jpg.webp
+332,Chronicle,Lime,221,1264,Hikari,World Extend,4.02,FTR,10,10.5,https://cdn.wikiwiki.jp/to/w/arcaea/Chronicle/::ref/Chronicle.jpg.webp
+333,NULL APOPHENIA,N2,177,1299,Tairitsu,Memory Archive,4.02,FTR,10.7,10.7,https://cdn.wikiwiki.jp/to/w/arcaea/NULL APOPHENIA/::ref/NULL APOPHENIA.jpg.webp
+334,Crimson Throne,Dimier√Lisb,210,1313,Tairitsu,Memory Archive,4.03,FTR,10,10.6,https://cdn.wikiwiki.jp/to/w/arcaea/Crimson Throne/::ref/Crimson Throne.jpg.webp
+335,Manic Jeer,ルゼ,195,1286,Tairitsu,Memory Archive,4.03,FTR,10,10.6,https://cdn.wikiwiki.jp/to/w/arcaea/Manic Jeer/::ref/Manic Jeer.jpg.webp
+336,緋色月下、狂咲ノ絶 (nayuta 2017 ver.),nayuta x 黒鳥(EastNewSound),150,1126,Tairitsu,Memory Archive,4.03,FTR,10,10.3,https://cdn.wikiwiki.jp/to/w/arcaea/%E7%B7%8B%E8%89%B2%E6%9C%88%E4%B8%8B%E3%80%81%E7%8B%82%E5%92%B2%E3%83%8E%E7%B5%B6%20%28nayuta%202017%20ver.%29/::ref/Hiiro%20Gekka%2C%20Kyoushou%20no%20Zetsu%20%28nayuta%202017%20ver.%29.jpg.webp
+337,Let's Rock (Arcaea mix),ikaruga nex vs FALCHiON,210,1177,Tairitsu,World Extend,4.03,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/Let's Rock (Arcaea mix)/::ref/Let's Rock (Arcaea mix).jpg.webp
+338,CYCLES,Masayoshi Minoshima feat. 綾倉盟,135,695,Hikari,maimai,4.03,FTR,8.7,8.8,https://cdn.wikiwiki.jp/to/w/arcaea/CYCLES/::ref/CYCLES.jpg
+339,MAXRAGE,EBIMAYO,222,1184,Tairitsu,maimai,4.03,FTR,9.7,9.9,https://cdn.wikiwiki.jp/to/w/arcaea/MAXRAGE/::ref/MAXRAGE.jpg.webp
+340,[X],Blacklolita,180,1190,Tairitsu,maimai,4.03,FTR,10,10.6,https://cdn.wikiwiki.jp/to/w/arcaea/%EF%BC%BBX%EF%BC%BD/::ref/%5BX%5D.jpg.webp
+341,TEmPTaTiON,かねこちはる,160,1099,Hikari,maimai,4.03,FTR,10.7,10.9,https://cdn.wikiwiki.jp/to/w/arcaea/TEmPTaTiON/::ref/TEmPTaTiON.jpg.webp
+342,PRIMITIVE LIGHTS,TAG,205,1524,Hikari,Memory Archive,4.03,FTR,10.7,10.8,https://cdn.wikiwiki.jp/to/w/arcaea/PRIMITIVE LIGHTS/::ref/PRIMITIVE LIGHTS.jpg.webp
+343,妖艶魔女 -trappola bewitching-,gmtn.,190,1086,Tairitsu,Vicious Labyrinth,4.03,BYD,10,10.6,https://cdn.wikiwiki.jp/to/w/arcaea/%E5%A6%96%E8%89%B6%E9%AD%94%E5%A5%B3%20-trappola%20bewitching-/::ref/trappola%20bewitching-b.jpg.webp
+344,Shades of Light in a Transcendent Realm,ak+q,170,1042,Hikari,Arcaea,4.03,BYD,9,9.1,https://cdn.wikiwiki.jp/to/w/arcaea/Shades%20of%20Light%20in%20a%20Transcendent%20Realm/::ref/Shades%20of%20Light%20in%20a%20Transcendent%20Realm-b.jpg.webp
+345,コスモポップファンクラブ,ナユタン星人,129,809,Hikari,CHUNITHM,4.04,FTR,8.7,8.8,https://cdn.wikiwiki.jp/to/w/arcaea/%E3%82%B3%E3%82%B9%E3%83%A2%E3%83%9D%E3%83%83%E3%83%97%E3%83%95%E3%82%A1%E3%83%B3%E3%82%AF%E3%83%A9%E3%83%96/::ref/Cosmo%20Pop%20Funclub.jpg.webp
+346,IMPACT,USAO feat. 光吉猛修,210,1231,Hikari,CHUNITHM,4.04,FTR,9,9.6,https://cdn.wikiwiki.jp/to/w/arcaea/IMPACT/::ref/IMPACT.jpg.webp
+347,Genesis,Morringan feat.Lily,150,867,Tairitsu,CHUNITHM,4.04,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/Genesis%E3%80%90CHUNITHM%E3%80%91/::ref/Genesis.jpg.webp
+348,Trrrickstars!!,s-don vs 翡乃イスカ,155,1183,Tairitsu,CHUNITHM,4.04,FTR,10,10.1,https://cdn.wikiwiki.jp/to/w/arcaea/Trrricksters!!/::ref/Trrricksters!!.jpg.webp
+349,蜘蛛の糸,きくお×cosMo@暴走P feat.影縫英,180,1203,Tairitsu,CHUNITHM,4.04,FTR,10.7,10.8,https://cdn.wikiwiki.jp/to/w/arcaea/%E8%9C%98%E8%9B%9B%E3%81%AE%E7%B3%B8/::ref/Spider%27s%20Thread.jpg.webp
+350,Lost Emotion feat. nomico,Masayoshi Minoshima(ALR),172,1123,Hikari,World Extend,4.04,FTR,9,9.3,https://cdn.wikiwiki.jp/to/w/arcaea/Lost Emotion feat. nomico/::ref/Lost Emotion feat. nomico.jpg.webp
+351,GIMMICK,Ms.Sill,143,733,Tairitsu,World Extend,4.04,FTR,9,9.5,https://cdn.wikiwiki.jp/to/w/arcaea/GIMMICK/::ref/GIMMICK.jpg
+352,The Survivor (Game Edit),Taishi,132,1100,Tairitsu,Memory Archive,4.04,FTR,9.7,9.9,https://cdn.wikiwiki.jp/to/w/arcaea/The Survivor (Game Edit)/::ref/The Survivor (Game Edit).jpg.webp
+353,New York Back Raise,saaa + kei_iwata + stuv + わかどり,160,1091,Tairitsu,Memory Archive,4.04,FTR,9.7,9.9,https://cdn.wikiwiki.jp/to/w/arcaea/New York Back Raise/::ref/New York Back Raise.jpg.webp
+354,Galactic Love,La priere,145,813,Hikari,Memory Archive,4.04,FTR,9,9,https://cdn.wikiwiki.jp/to/w/arcaea/Galactic Love/::ref/Galactic Love.jpg.webp
+355,無法地点,La priere,148,838,Hikari,World Extend,4.04,FTR,9,9,https://cdn.wikiwiki.jp/to/w/arcaea/%E7%84%A1%E6%B3%95%E5%9C%B0%E7%82%B9/::ref/Lawless%20Point.jpg.webp
+356,Lost in the Abyss,FELT,183,1179,Tairitsu,Memory Archive,4.04,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/Lost in the Abyss/::ref/Lost in the Abyss.jpg.webp
+357,ヒュブリスの頂に聳えるのは,qfeileadh feat.のあ,158,1196,Tairitsu,World Extend,4.04,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/%E3%83%92%E3%83%A5%E3%83%96%E3%83%AA%E3%82%B9%E3%81%AE%E9%A0%82%E3%81%AB%E8%81%B3%E3%81%88%E3%82%8B%E3%81%AE%E3%81%AF/::ref/Hybris%20%28The%20one%20who%20shattered%29.jpg.webp
+358,To the Milky Way,黒魔,186,1392,Hikari,Memory Archive,4.04,FTR,10,10.4,https://cdn.wikiwiki.jp/to/w/arcaea/To the Milky Way/::ref/To the Milky Way.jpg.webp
+359,Teriqma,owl*tree,128,954,Tairitsu,Memory Archive,4.04,BYD,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/Teriqma/::ref/Teriqma.jpg.webp
+360,IMPACT,USAO feat. 光吉猛修,210,1392,Hikari,CHUNITHM,4.04,BYD,10,10.4,https://cdn.wikiwiki.jp/to/w/arcaea/IMPACT/::ref/IMPACT.jpg.webp
+361,INTERNET YAMERO,Aiobahn feat. KOTOKO,185,1222,Tairitsu,Memory Archive,4.05,FTR,10,9.9,https://cdn.wikiwiki.jp/to/w/arcaea/INTERNET YAMERO/::ref/INTERNET YAMERO.jpg.webp
+362,Bullet Waiting for Me (James Landino remix),Nikki Simmons,107,701,Hikari,Cytus II,4.05,FTR,8,8.1,https://cdn.wikiwiki.jp/to/w/arcaea/Bullet Waiting for Me (James Landino remix)/::ref/Bullet Waiting for Me (James Landino remix).jpg.webp
+363,Devillic Sphere,3R2,160,1129,Tairitsu,Cytus II,4.05,FTR,9.7,9.9,https://cdn.wikiwiki.jp/to/w/arcaea/Devillic Sphere/::ref/Devillic Sphere.jpg.webp
+364,Lucid Traveler,Akira Complex vs 3R2,200,1341,Tairitsu,Cytus II,4.05,FTR,10,10.5,https://cdn.wikiwiki.jp/to/w/arcaea/Lucid%20Traveler/::ref/Lucid%20Traveler_FTR.jpg.webp
+365,CHAOS,AEsir,150,1369,Tairitsu,Cytus II,4.05,FTR,10.7,10.9,https://cdn.wikiwiki.jp/to/w/arcaea/CHAOS/::ref/CHAOS.jpg.webp
+366,Used to be,KIVA,140,799,Hikari,Cytus II,4.05,FTR,9,9.2,https://cdn.wikiwiki.jp/to/w/arcaea/Used to be/::ref/Used to be.jpg.webp
+367,Ultimate taste,ぱらどっと,200,1405,Hikari,World Extend,4.06,FTR,9.7,9.9,https://cdn.wikiwiki.jp/to/w/arcaea/Ultimate taste/::ref/Ultimate taste.jpg.webp
+368,syuten,"Apo11o""COLLAPSAR"" program ft. 大瀬良あい",96,592,Hikari,Cytus II,4.06,FTR,8,8.5,https://cdn.wikiwiki.jp/to/w/arcaea/syūten/::ref/syūten.jpg.webp
+369,DRG,onoken,155,872,Hikari,Cytus II,4.06,FTR,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/DRG/::ref/DRG.jpg.webp
+370,99 Glooms,Sta,185,1294,Tairitsu,Cytus II,4.06,FTR,10,10.3,https://cdn.wikiwiki.jp/to/w/arcaea/99 Glooms/::ref/99 Glooms.jpg.webp
+371,II,Cytus,150,1051,Tairitsu,Cytus II,4.06,FTR,10.7,10.8,https://cdn.wikiwiki.jp/to/w/arcaea/Ⅱ/::ref/Ⅱ.jpg.webp
+372,Magnolia,M2U Vocal by Guriri,160,895,Hikari,Cytus II,4.06,FTR,10,10.2,https://cdn.wikiwiki.jp/to/w/arcaea/Magnolia/::ref/Magnolia.jpg.webp
+373,SACRIFICE feat. ayame,Masayoshi Minoshima(ALR),180,958,Tairitsu,Memory Archive,4.07,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/SACRIFICE feat. ayame/::ref/SACRIFICE feat. ayame.jpg.webp
+374,RGB,MEMODEMO X AQUASINE,163,1131,Hikari,World Extend,4.07,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/RGB/::ref/RGB.jpg.webp
+375,WAIT FOR DAWN,U-ske feat. 棗いつき,188,861,Hikari,Lasting Eden,4.07,FTR,8.7,8.7,https://cdn.wikiwiki.jp/to/w/arcaea/WAIT FOR DAWN/::ref/WAIT FOR DAWN.jpg.webp
+376,レイヴンズ・プライド,みーに feat. はらもりよしな,165,1030,Tairitsu,Lasting Eden,4.07,FTR,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/%E3%83%AC%E3%82%A4%E3%83%B4%E3%83%B3%E3%82%BA%E3%83%BB%E3%83%97%E3%83%A9%E3%82%A4%E3%83%89/::ref/Raven%27s%20Pride.jpg.webp
+377,Rise of the World,cosMo@暴走P,212,1176,Hikari,Lasting Eden,4.07,FTR,10,10.5,https://cdn.wikiwiki.jp/to/w/arcaea/Rise of the World/::ref/Rise of the World.jpg.webp
+378,UNKNOWN LEVELS,Yuta Imai,165,1149,Tairitsu,Lasting Eden,4.07,FTR,10,10.6,https://cdn.wikiwiki.jp/to/w/arcaea/UNKNOWN LEVELS/::ref/UNKNOWN LEVELS.jpg.webp
+379,Abstruse Dilenmma,Ashrount vs. 打打だいず,216,1467,Hikari,Lasting Eden,4.07,FTR,11,11.3,https://cdn.wikiwiki.jp/to/w/arcaea/Abstruse Dilemma/::ref/Abstruse Dilemma.jpg.webp
+380,感情の摩天楼 ～Arr.Demetori,Demetori,178,1294,Tairitsu,World Extend,4.07,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/%E6%84%9F%E6%83%85%E3%81%AE%E6%91%A9%E5%A4%A9%E6%A5%BC%20%EF%BD%9EArr.Demetori/::ref/Kanjou%20no%20matenrou%20%EF%BD%9EArr.Demetori.jpg.webp
+381,彼方の夢へと,ii/night feat. 綺良雪,183,1102,,Memory Archive,4.07,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/%E5%BD%BC%E6%96%B9%E3%81%AE%E5%A4%A2%E3%81%B8%E3%81%A8/::ref/To%20the%20Furthest%20Dream.jpg.webp
+382,Remind the Souls (Short Version),Nhato,130,945,Hikari,Arcaea,5,FTR,9,9.6,https://cdn.wikiwiki.jp/to/w/arcaea/Remind the Souls (Short Version)/::ref/Remind the Souls (Short Version).jpg.webp
+383,Dynitikos,Prower,180,986,Tairitsu,World Extend,5,FTR,9,9.5,https://cdn.wikiwiki.jp/to/w/arcaea/Dynitikós/::ref/Dynitikós.jpg.webp
+384,雨神楽,荒谷サトル,105,1076,Hikari,World Extend,5,FTR,9.7,9.9,https://cdn.wikiwiki.jp/to/w/arcaea/%E9%9B%A8%E7%A5%9E%E6%A5%BD/::ref/Amekagura.jpg.webp
+385,B.B.K.K.B.K.K.,nora2r,170,976,Tairitsu,Memory Archive,5,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/B.B.K.K.B.K.K./::ref/B.B.K.K.B.K.K..jpg
+386,Primeval Texture,くるぶっこちゃん,120,810,Tairitsu,Severed Eden,5,FTR,9,9,https://cdn.wikiwiki.jp/to/w/arcaea/Primeval Texture/::ref/Primeval Texture.jpg.webp
+387,Technicolour,Maozon,175,1140,Hikari,Severed Eden,5,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/Technicolour/::ref/Technicolour.jpg.webp
+388,Logos,polysha feat. 高城みよ,189,1040,Tairitsu,Severed Eden,5,FTR,10,10.2,https://cdn.wikiwiki.jp/to/w/arcaea/Logos/::ref/Logos.jpg.webp
+389,Ego Eimi,BlackY feat. Risa Yuzuki,178,1223,Tairitsu,Severed Eden,5,FTR,10,10.5,https://cdn.wikiwiki.jp/to/w/arcaea/Ego Eimi/::ref/Ego Eimi.jpg.webp
+390,Arghena,Feryquitous vs Laur,185,1444,Tairitsu,Severed Eden,5,FTR,11,11.3,https://cdn.wikiwiki.jp/to/w/arcaea/Arghena/::ref/Arghena.jpg.webp
+391,FANTA5Y,Moon Jelly & YUKIYANAGI,170,965,Hikari,World Extend,5.01,FTR,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/FANTA5Y/::ref/FANTA5Y.jpg.webp
+392,Transient Space,"sleepless, Gardens, aspect",132,805,Tairitsu,Severed Eden,5.01,FTR,9,9.5,https://cdn.wikiwiki.jp/to/w/arcaea/Transient Space/::ref/Transient Space.jpg.webp
+393,Nameless Passion,天束 feat.Sennzai,200,1223,Tairitsu,Severed Eden,5.01,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/Nameless Passion/::ref/Nameless Passion.jpg.webp
+394,TeraVolt,Katali,154,1008,Tairitsu,Severed Eden,5.01,FTR,10.7,10.8,https://cdn.wikiwiki.jp/to/w/arcaea/TeraVolt/::ref/TeraVolt.jpg.webp
+395,Stratoliner,C-Show,175,877,Tairitsu,WACCA,5.02,FTR,9,9.6,https://cdn.wikiwiki.jp/to/w/arcaea/Stratoliner/::ref/Stratoliner.jpg.webp
+396,Ouverture,USAO & DJ Genki feat. ルーン(CV:河瀬茉希),200,913,Tairitsu,WACCA,5.02,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/Ouvertüre/::ref/Ouvertüre.jpg.webp
+397,XTREME,USAO,205,1258,Tairitsu,WACCA,5.02,FTR,10,10.5,https://cdn.wikiwiki.jp/to/w/arcaea/XTREME/::ref/XTREME.jpg.webp
+398,eden,"”漆黒”の堕天使《Gram》♰Versus♰""聖刻""の熾天使《Gram》",246,1365,Tairitsu,WACCA,5.02,FTR,10,10.5,https://cdn.wikiwiki.jp/to/w/arcaea/eden/::ref/eden.jpg.webp
+399,Meta-Mysteria,DJ Noriken,205,1309,Hikari,WACCA,5.02,FTR,10.7,10.8,https://cdn.wikiwiki.jp/to/w/arcaea/Meta-Mysteria/::ref/Meta-Mysteria.jpg.webp
+400,アローンアンドローン,Ponchi♪ feat.はぁち,100,970,Hikari,World Extend,5.02,FTR,9,9.6,https://cdn.wikiwiki.jp/to/w/arcaea/%E3%82%A2%E3%83%AD%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3/::ref/Alone%20%26%20Lorn.jpg.webp
+401,Wish Upon a Snow,打打だいず,218,1309,Hikari,Memory Archive,5.02,FTR,10,10.5,https://cdn.wikiwiki.jp/to/w/arcaea/Wish Upon a Snow/::ref/Wish Upon a Snow.jpg.webp
+402,患部で止まってすぐ溶ける　～狂気の優曇華院,ARM＋夕野ヨシミ(IOSYS) feat. Miko,200,1108,Hikari,Memory Archive,5.02,FTR,10,10.1,https://cdn.wikiwiki.jp/to/w/arcaea/%E6%82%A3%E9%83%A8%E3%81%A7%E6%AD%A2%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%99%E3%81%90%E6%BA%B6%E3%81%91%E3%82%8B%E3%80%80%EF%BD%9E%20%E7%8B%82%E6%B0%97%E3%81%AE%E5%84%AA%E6%9B%87%E8%8F%AF%E9%99%A2/::ref/Kanbu%20de%20Tomatte%20Sugu%20Tokeru.jpg.webp
+403,felys final remix,onoken,180,1130,Tairitsu,World Extend,5.02,FTR,9,9.5,https://cdn.wikiwiki.jp/to/w/arcaea/felys final remix/::ref/felys final remix.jpg.webp
+404,On And On!! Feat. Jenga,ETIA.,170,836,Hikari,World Extend,5.02,FTR,9,9.5,https://cdn.wikiwiki.jp/to/w/arcaea/On And On!! feat. Jenga/::ref/On And On!! feat. Jenga.jpg.webp
+405,LIVHT MY WΔY,かめりあ feat. STΔRLIVHT,190,954,Tairitsu,Memory Archive,5.02,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/LIVHT%20MY%20W%E2%80%8B%CE%94%E2%80%8BY/::ref/LIVHT%20MY%20W%E2%80%8B%CE%94%E2%80%8BY.jpg.webp
+406,蛍火の雪,Endorfin.,159,991,Hikari,Sunset Radiance,5.02,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/%E8%9B%8D%E7%81%AB%E3%81%AE%E9%9B%AA/::ref/Hotarubi%20no%20Yuki.jpg.webp
+407,The Formula,Junk,144,957,Hikari,Arcaea,5.03,FTR,9,9.3,https://cdn.wikiwiki.jp/to/w/arcaea/The Formula/::ref/The Formula.jpg.webp
+408,Luna Rossa,r0y,174,920,Tairitsu,Memory Archive,5.03,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/Luna Rossa/::ref/Luna Rossa.jpg.webp
+409,inkar-usi,DIA,102,857,Hikari,Arcaea,5.03,BYD,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/inkar-usi/::ref/inkar-usi-b.jpg.webp
+410,Oblivia,Saiph,180,1021,Hikari,Arcaea,5.03,BYD,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/Oblivia/::ref/Oblivia-b.jpg.webp
+411,Cybernecia Catharsis,Tanchiky,184,991,Tairitsu,Arcaea,5.03,BYD,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/Cybernecia%20Catharsis/::ref/Cybernecia%20Catharsis-b.jpg.webp
+412,Libertas,Zekk,184,1048,Hikari,Memory Archive,5.03,BYD,10,10.5,https://cdn.wikiwiki.jp/to/w/arcaea/Libertas/::ref/Libertas-b.jpg.webp
+413,Purple Verse,Hommarju,170,1202,Tairitsu,Arcaea,5.03,BYD,10,10.6,https://cdn.wikiwiki.jp/to/w/arcaea/Purple%20Verse/::ref/Purple%20Verse-b.jpg.webp
+414,Einherjar Joker,DJ Genki vs Gram,222,1857,Tairitsu,Memory Archive,5.03,BYD,10.7,10.9,https://cdn.wikiwiki.jp/to/w/arcaea/Einherjar%20Joker/::ref/Einherjar%20Joker-b.jpg.webp
+415,Vicious [ANTi] Heroism,Kobaryo,271,1772,Tairitsu,Absolute Reason,5.03,BYD,11,11.2,https://cdn.wikiwiki.jp/to/w/arcaea/Vicious Heroism/::ref/Vicious Heroism-b.jpg.webp
+416,Sayonara Hatsukoi,REDSHiFT,178,728,Hikari,Arcaea,5.04,ETR,8,8.5,https://cdn.wikiwiki.jp/to/w/arcaea/Sayonara Hatsukoi/::ref/Sayonara Hatsukoi.jpg.webp
+417,クロートーと星の観測者,しーけー,230,1031,Hikari,Arcaea,5.04,ETR,8.7,8.8,https://cdn.wikiwiki.jp/to/w/arcaea/%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%88%E3%83%BC%E3%81%A8%E6%98%9F%E3%81%AE%E8%A6%B3%E6%B8%AC%E8%80%85/::ref/Clotho%20and%20the%20stargazer.jpg.webp
+418,Suomi,Aire,125,732,Hikari,Arcaea,5.04,ETR,8.7,8.9,https://cdn.wikiwiki.jp/to/w/arcaea/Suomi/::ref/Suomi.jpg.webp
+419,Jingle,DJ Noriken,170,848,Hikari,Arcaea,5.04,FTR,7.7,7.8,https://cdn.wikiwiki.jp/to/w/arcaea/Jingle/::ref/Jingle.jpg.webp
+420,Jingle,DJ Noriken,170,1047,Hikari,Arcaea,5.04,ETR,9,9.5,https://cdn.wikiwiki.jp/to/w/arcaea/Jingle/::ref/Jingle.jpg.webp
+421,Innocence,Powerless feat. Sennzai,190,1023,Hikari,Memory Archive,5.04,FTR,8,8.5,https://cdn.wikiwiki.jp/to/w/arcaea/Innocence/::ref/Innocence.jpg.webp
+422,Innocence,Powerless feat. Sennzai,190,1157,Hikari,Memory Archive,5.04,ETR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/Innocence/::ref/Innocence.jpg.webp
+423,IONOSTREAM,Tatsh,254,818,Tairitsu,Memory Archive,5.04,FTR,8.7,8.7,https://cdn.wikiwiki.jp/to/w/arcaea/IONOSTREAM/::ref/IONOSTREAM.jpg.webp
+424,IONOSTREAM,Tatsh,254,871,Tairitsu,Memory Archive,5.04,ETR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/IONOSTREAM/::ref/IONOSTREAM.jpg.webp
+425,Aleph-0,LeaF,400,919,Tairitsu,World Extend,5.04,FTR,10,10.5,https://cdn.wikiwiki.jp/to/w/arcaea/Aleph-0/::ref/Aleph-0.jpg.webp
+426,Masquerade Legion,Srav3R & DJ Noriken,175,1064,Tairitsu,Memory Archive,5.04,FTR,10,10,https://cdn.wikiwiki.jp/to/w/arcaea/Masquerade Legion/::ref/Masquerade Legion.jpg.webp
+427,狂恋ROMANCE,REDALiCE vs DJ Myosuke feat. DELUTAYA,205,1519,Tairitsu,Memory Archive,5.04,FTR,10.7,10.7,https://cdn.wikiwiki.jp/to/w/arcaea/%E7%8B%82%E6%81%8BROMANCE/::ref/KYOREN%20ROMANCE.jpg.webp
+428,Qovat,owl*tree,122,1299,Tairitsu,Memory Archive,5.04,FTR,10,10.4,https://cdn.wikiwiki.jp/to/w/arcaea/Qovat/::ref/Qovat.jpg.webp
+429,HELLOHELL,暁Records,155,673,Tairitsu,World Extend 3,5.05,FTR,7,7.5,https://cdn.wikiwiki.jp/to/w/arcaea/HELLOHELL/::ref/HELLOHELL.jpg.webp
+430,HELLOHELL,暁Records,155,770,Tairitsu,World Extend 3,5.05,ETR,9,9.3,https://cdn.wikiwiki.jp/to/w/arcaea/HELLOHELL/::ref/HELLOHELL.jpg.webp
+431,〇、,Kolla & 熊子,145,708,Hikari,World Extend 3,5.05,FTR,9,9.5,https://cdn.wikiwiki.jp/to/w/arcaea/%E3%80%87%E3%80%81/::ref/%E3%80%87%E3%80%81.jpg
+432,Awaken In Ruins,Supa7onyz,125,754,Tairitsu,World Extend 3,5.05,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/Awaken%20In%20Ruins/::ref/Awaken%20In%20Ruins.jpg.webp
+433,MORNINGLOOM,saaa,102,940,Hikari,World Extend 3,5.05,FTR,8.7,8.8,https://cdn.wikiwiki.jp/to/w/arcaea/MORNINGLOOM/::ref/MORNINGLOOM.jpg.webp
+434,MORNINGLOOM,saaa,102,1035,Hikari,World Extend 3,5.05,ETR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/MORNINGLOOM/::ref/MORNINGLOOM.jpg.webp
+435,Lethal Voltage,siqlo,190,1497,Tairitsu,World Extend 3,5.05,FTR,10,10.4,https://cdn.wikiwiki.jp/to/w/arcaea/Lethal%20Voltage/::ref/Lethal%20Voltage.jpg.webp
+436,MIRINAE,TAK × Zekk,180,1277,Hikari,Memory Archive,5.05,FTR,10,10.4,https://cdn.wikiwiki.jp/to/w/arcaea/MIRINAE/::ref/MIRINAE.jpg.webp
+437,ultradiaxon-N3,nitro(lowiro),150,1228,Tairitsu,Memory Archive,5.05,FTR,10,10.3,https://cdn.wikiwiki.jp/to/w/arcaea/ultradiaxon-N3/::ref/ultradiaxon-N3.jpg.webp
+438,Leave All Behind,rider,150,828,Tairitsu,World Extend 3,5.06,FTR,9,9.2,https://cdn.wikiwiki.jp/to/w/arcaea/Leave%20All%20Behind/::ref/Leave%20All%20Behind.jpg.webp
+439,Distorted Fate,Sakuzyo,150,1172,Tairitsu,Memory Archive,5.06,FTR,9,9.6,https://cdn.wikiwiki.jp/to/w/arcaea/Distorted%20Fate/::ref/Distorted%20Fate.jpg.webp
+440,Distorted Fate,Sakuzyo,150,1402,Tairitsu,Memory Archive,5.06,ETR,10.7,10.8,https://cdn.wikiwiki.jp/to/w/arcaea/Distorted%20Fate/::ref/Distorted%20Fate.jpg.webp
+441,Floating World,baker feat. botan,174,1047,Hikari,Memory Archive,5.06,FTR,9,9.3,https://cdn.wikiwiki.jp/to/w/arcaea/Floating%20World/::ref/Floating%20World.jpg.webp
+442,Chromafill,ていぬ,179,1130,Hikari,Memory Archive,5.06,FTR,10,10,https://cdn.wikiwiki.jp/to/w/arcaea/Chromafill/::ref/Chromafill.jpg.webp
+443,Desive,MisomyL,230,1273,Hikari,Memory Archive,5.06,FTR,9.7,9.9,https://cdn.wikiwiki.jp/to/w/arcaea/D%C3%A9sive/::ref/D%C3%A9sive.jpg.webp
+444,Desive,MisomyL,230,1340,Hikari,Memory Archive,5.06,ETR,10.7,10.8,https://cdn.wikiwiki.jp/to/w/arcaea/D%C3%A9sive/::ref/D%C3%A9sive.jpg.webp
+445,エピクロスの虹はもう見えない,SYNC.ART'S feat.Misato,155,783,Hikari,Arcaea,5.07,FTR,7,7.5,https://cdn.wikiwiki.jp/to/w/arcaea/%E3%82%A8%E3%83%94%E3%82%AF%E3%83%AD%E3%82%B9%E3%81%AE%E8%99%B9%E3%81%AF%E3%82%82%E3%81%86%E8%A6%8B%E3%81%88%E3%81%AA%E3%81%84/::ref/Hidden%20Rainbows%20of%20Epicurus.jpg.webp
+446,エピクロスの虹はもう見えない,SYNC.ART'S feat.Misato,155,884,Hikari,Arcaea,5.07,ETR,8.7,8.8,https://cdn.wikiwiki.jp/to/w/arcaea/%E3%82%A8%E3%83%94%E3%82%AF%E3%83%AD%E3%82%B9%E3%81%AE%E8%99%B9%E3%81%AF%E3%82%82%E3%81%86%E8%A6%8B%E3%81%88%E3%81%AA%E3%81%84/::ref/Hidden%20Rainbows%20of%20Epicurus.jpg.webp
+447,黄昏の協奏曲,Scarlette,194,803,Tairitsu,Memory Archive,5.07,FTR,9,9.5,https://cdn.wikiwiki.jp/to/w/arcaea/%E9%BB%84%E6%98%8F%E3%81%AE%E5%8D%94%E5%A5%8F%E6%9B%B2/::ref/Twilight%20Concerto.jpg.webp
+448,黄昏の協奏曲,Scarlette,194,962,Tairitsu,Memory Archive,5.07,ETR,10,10.5,https://cdn.wikiwiki.jp/to/w/arcaea/%E9%BB%84%E6%98%8F%E3%81%AE%E5%8D%94%E5%A5%8F%E6%9B%B2/::ref/Twilight%20Concerto.jpg.webp
+449,Old School Salvage,DJ SHARPNEL,205,1316,Tairitsu,World Extend 3,5.07,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/Old%20School%20Salvage/::ref/Old%20School%20Salvage.jpg.webp
+450,Beautiful Dreamer,M-Project,188,1139,Hikari,Memory Archive,5.07,FTR,9.7,9.9,https://cdn.wikiwiki.jp/to/w/arcaea/Beautiful%20Dreamer/::ref/Beautiful%20Dreamer.jpg.webp
+451,Back to Basics,m1dy,420,1544,Tairitsu,Memory Archive,5.07,FTR,10,10.6,https://cdn.wikiwiki.jp/to/w/arcaea/Back%20to%20Basics/::ref/Back%20to%20Basics.jpg.webp
+452,STARGATE EXTREME,KARUT,150,724,Tairitsu,Memory Archive,5.08,FTR,9,9.3,https://cdn.wikiwiki.jp/to/w/arcaea/STARGATE%20EXTREME/::ref/STARGATE%20EXTREME.jpg.webp
+453,STARGATE EXTREME,KARUT,150,915,Tairitsu,Memory Archive,5.08,ETR,9.7,9.9,https://cdn.wikiwiki.jp/to/w/arcaea/STARGATE%20EXTREME/::ref/STARGATE%20EXTREME.jpg.webp
+454,"Sign of ""10.5km""",渡部恭久,160,735,Hikari,Groove Coaster,5.08,FTR,9,9.2,https://cdn.wikiwiki.jp/to/w/arcaea/Sign%20of%20%27%2710.5km%27%27/::ref/Sign%20of%20%27%2710.5km%27%27.jpg.webp
+455,10pt8ion,Lite Show Magic,185,906,Tairitsu,Groove Coaster,5.08,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/10pt8ion/::ref/10pt8ion.jpg.webp
+456,10pt8ion,Lite Show Magic,185,1087,Tairitsu,Groove Coaster,5.08,ETR,10,10.5,https://cdn.wikiwiki.jp/to/w/arcaea/10pt8ion/::ref/10pt8ion.jpg.webp
+457,Black MInD,COSIO,192,1274,Tairitsu,Groove Coaster,5.08,FTR,10.7,10.8,https://cdn.wikiwiki.jp/to/w/arcaea/Black%20MInD/::ref/Black%20MInD.jpg.webp
+458,HYPER VISION,VOLTA,155,1040,Tairitsu,Memory Archive,5.08,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/HYPER%20VISION/::ref/HYPER%20VISION.jpg.webp
+459,ディストーション・ニンゲン,DJ Myosuke & KAJI,200,1317,Tairitsu,World Extend 3,5.09,FTR,9.7,9.9,https://cdn.wikiwiki.jp/to/w/arcaea/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B2%E3%83%B3/::ref/Distortion%20Human.jpg.webp
+460,shrink,Shohei Tsuchiya(ZUNTATA),180,939,Hikari,Memory Archive,5.09,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/shrink/::ref/shrink.jpg.webp
+461,In Vain,ryhki,165,1111,Tairitsu,Absolute Nihil,5.09,FTR,9,9.5,https://cdn.wikiwiki.jp/to/w/arcaea/In%20Vain/::ref/In%20Vain.jpg.webp
+462,Hypnotize,rejection,160,993,Tairitsu,Absolute Nihil,5.09,FTR,8.7,8.9,https://cdn.wikiwiki.jp/to/w/arcaea/Hypnotize/::ref/Hypnotize.jpg.webp
+463,Hypnotize,rejection,160,1164,Tairitsu,Absolute Nihil,5.09,ETR,9.7,9.9,https://cdn.wikiwiki.jp/to/w/arcaea/Hypnotize/::ref/Hypnotize.jpg.webp
+464,Ashen 6oundary,YUKIYANAGI,172,1183,Tairitsu,Absolute Nihil,5.09,FTR,9.7,9.9,https://cdn.wikiwiki.jp/to/w/arcaea/Ashen%206oundary/::ref/Ashen%206oundary.jpg.webp
+465,Judgement,Tatsunoshin,200,1432,Tairitsu,Absolute Nihil,5.09,FTR,10,10.5,https://cdn.wikiwiki.jp/to/w/arcaea/Judgement/::ref/Judgement.jpg.webp
+466,ALTER EGO,Yuta Imai vs Qlarabelle,195,1466,Tairitsu,Absolute Nihil,5.09,FTR,10,10.5,https://cdn.wikiwiki.jp/to/w/arcaea/ALTER%20EGO/::ref/ALTER%20EGO.jpg.webp
+467,ALTER EGO,Yuta Imai vs Qlarabelle,195,1644,Tairitsu,Absolute Nihil,5.09,ETR,11,11.3,https://cdn.wikiwiki.jp/to/w/arcaea/ALTER%20EGO/::ref/ALTER%20EGO.jpg.webp
+468,epitaxy,Camellia,183,1177,Hikari,World Extend 3,5.1,FTR,8,8.6,https://cdn.wikiwiki.jp/to/w/arcaea/epitaxy/::ref/epitaxy.jpg.webp
+469,epitaxy,Camellia,183,1410,Hikari,Rotaeno,5.1,ETR,9,9.6,https://cdn.wikiwiki.jp/to/w/arcaea/epitaxy/::ref/epitaxy.jpg.webp
+470,Waltz for Lorelei,Sobrem & 庭師,220,916,Hikari,Rotaeno,5.1,FTR,8.7,8.8,https://cdn.wikiwiki.jp/to/w/arcaea/Waltz%20for%20Lorelei/::ref/Waltz%20for%20Lorelei.jpg.webp
+471,Waltz for Lorelei,Sobrem & 庭師,220,999,Hikari,Rotaeno,5.1,ETR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/Waltz%20for%20Lorelei/::ref/Waltz%20for%20Lorelei.jpg.webp
+472,Dual Doom Deathmatch,Kobaryo vs HyuN,222,1094,Tairitsu,Rotaeno,5.1,FTR,8.7,8.9,https://cdn.wikiwiki.jp/to/w/arcaea/Dual%20Doom%20Deathmatch/::ref/Dual%20Doom%20Deathmatch.jpg.webp
+473,Dual Doom Deathmatch,Kobaryo vs HyuN,222,1292,Tairitsu,Rotaeno,5.1,ETR,10,10.3,https://cdn.wikiwiki.jp/to/w/arcaea/Dual%20Doom%20Deathmatch/::ref/Dual%20Doom%20Deathmatch.jpg.webp
+474,Inverted World,ARForest,180,940,Hikari,Rotaeno,5.1,FTR,9,9.5,https://cdn.wikiwiki.jp/to/w/arcaea/Inverted%20World/::ref/Inverted%20World.jpg.webp
+475,Inverted World,ARForest,180,1065,Hikari,Rotaeno,5.1,ETR,10.7,10.7,https://cdn.wikiwiki.jp/to/w/arcaea/Inverted%20World/::ref/Inverted%20World.jpg.webp
+476,MVURBD,ETIA.,175,1497,Tairitsu,Rotaeno,5.1,FTR,10,10.6,https://cdn.wikiwiki.jp/to/w/arcaea/MVURBD/::ref/MVURBD.jpg.webp
+477,Vulcanus,Team Grimoire vs Aoi,212,1542,Hikari,Rotaeno,5.1,FTR,10.7,10.9,https://cdn.wikiwiki.jp/to/w/arcaea/Vulc%C4%81nus/::ref/Vulc%C4%81nus.jpg.webp
+478,Rain of Conflict in a Radiant Abyss,ak+q,195,1164,Tairitsu,Memory Archive,5.1,FTR,9,9.5,https://cdn.wikiwiki.jp/to/w/arcaea/Rain%20of%20Conflict%20in%20a%20Radiant%20Abyss/::ref/Rain%20of%20Conflict%20in%20a%20Radiant%20Abyss.jpg.webp
+479,Rain of Conflict in a Radiant Abyss,ak+q,195,1247,Tairitsu,Memory Archive,5.1,ETR,10,10.5,https://cdn.wikiwiki.jp/to/w/arcaea/Rain%20of%20Conflict%20in%20a%20Radiant%20Abyss/::ref/Rain%20of%20Conflict%20in%20a%20Radiant%20Abyss.jpg.webp
+480,Saint or Sinner,crayvxn,164,906,Tairitsu,Adverse Prelude,5.1,FTR,8.7,8.8,https://cdn.wikiwiki.jp/to/w/arcaea/Saint%20or%20Sinner/::ref/Saint%20or%20Sinner.jpg.webp
+481,Hailstone,Kazki Misora,180,1002,Hikari,World Extend 3,5.1,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/Hailstone/::ref/Hailstone.jpg.webp
+482,フレテミタイ,みきとP,155,763,Hikari,World Extend 3,5.1,FTR,8,8.4,https://cdn.wikiwiki.jp/to/w/arcaea/%E3%83%95%E3%83%AC%E3%83%86%E3%83%9F%E3%82%BF%E3%82%A4/::ref/FURETE-MITAI.jpg.webp
+483,フレテミタイ,みきとP,155,841,Hikari,World Extend 3,5.1,ETR,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/%E3%83%95%E3%83%AC%E3%83%86%E3%83%9F%E3%82%BF%E3%82%A4/::ref/FURETE-MITAI.jpg.webp
+484,幻想のサテライト,豚乙女,230,992,Tairitsu,Memory Archive,5.1,FTR,8.7,8.7,https://cdn.wikiwiki.jp/to/w/arcaea/%E5%B9%BB%E6%83%B3%E3%81%AE%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%8/::ref/Gensou%20no%20Satellite.jpg.webp
+485,幻想のサテライト,豚乙女,230,1139,Tairitsu,Memory Archive,5.1,ETR,10,10.1,https://cdn.wikiwiki.jp/to/w/arcaea/%E5%B9%BB%E6%83%B3%E3%81%AE%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%8/::ref/Gensou%20no%20Satellite.jpg.webp
+486,プレヤ,qfeileadh&レゾナンスもえこ,132,591,Hikari,World Extend 3,5.1,FTR,8,8.2,https://cdn.wikiwiki.jp/to/w/arcaea/%E3%83%97%E3%83%AC%E3%83%A4/::ref/Prayer.jpg.webp
+487,プレヤ,qfeileadh&レゾナンスもえこ,132,714,Hikari,World Extend 3,5.1,ETR,9,9.1,https://cdn.wikiwiki.jp/to/w/arcaea/%E3%83%97%E3%83%AC%E3%83%A4/::ref/Prayer.jpg.webp
+488,Crimson Quartz,DiGiTAL WiNG with 空音,145,861,Tairitsu,Memory Archive,5.1,FTR,8.7,8.8,https://cdn.wikiwiki.jp/to/w/arcaea/Crimson%20Quartz/::ref/Crimson%20Quartz.jpg.webp
+489,Crimson Quartz,DiGiTAL WiNG with 空音,145,1200,Tairitsu,Memory Archive,5.1,ETR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/Crimson%20Quartz/::ref/Crimson%20Quartz.jpg.webp
+490,Third Sun,Ash Astral,225,811,Tairitsu,Memory Archive,5.1,FTR,9,9.4,https://cdn.wikiwiki.jp/to/w/arcaea/Third%20Sun/::ref/Third%20Sun.jpg.webp
+491,Third Sun,Ash Astral,225,1043,Tairitsu,Memory Archive,5.1,ETR,10,10,https://cdn.wikiwiki.jp/to/w/arcaea/Third%20Sun/::ref/Third%20Sun.jpg.webp
+492,Spirit of the Dauntless,KO3 & Relect,180,1207,Tairitsu,Memory Archive,5.1,FTR,10,10.5,https://cdn.wikiwiki.jp/to/w/arcaea/Spirit%20of%20the%20Dauntless/::ref/Spirit%20of%20the%20Dauntless.jpg.webp
+493,Dies irae,お月さま交響曲,172,1052,Tairitsu,Memory Archive,5.1,FTR,9,9.5,https://cdn.wikiwiki.jp/to/w/arcaea/Dies%20irae/::ref/Dies%20irae.jpg.webp
+494,Dies irae,お月さま交響曲,172,1263,Tairitsu,Memory Archive,5.1,ETR,10,10.6,https://cdn.wikiwiki.jp/to/w/arcaea/Dies%20irae/::ref/Dies%20irae.jpg.webp
+495,astral.exe,Synzak & Laxeno57,174,1059,Hikari,World Extend 3,6,FTR,9,9.5,https://cdn.wikiwiki.jp/to/w/arcaea/astral.exe/::ref/astral.exe.jpg.webp
+496,LiftOff,MAYA AKAI,137,660,Tairitsu,O.N.G.E.K.I,6,FTR,8,8.2,https://cdn.wikiwiki.jp/to/w/arcaea/LiftOff/::ref/LiftOff.jpg.webp
+497,LiftOff,MAYA AKAI,137,988,Tairitsu,O.N.G.E.K.I,6,ETR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/LiftOff/::ref/LiftOff.jpg.webp
+498,SUPER AMBULANCE,AJURIKA,200,1371,Hikari,O.N.G.E.K.I,6,FTR,10,10.3,https://cdn.wikiwiki.jp/to/w/arcaea/SUPER%20AMBULANCE/::ref/SUPER%20AMBULANCE.jpg.webp
+499,Don’t Fight The Music,黒魔,200,1043,Tairitsu,O.N.G.E.K.I,6,FTR,9,9.3,https://cdn.wikiwiki.jp/to/w/arcaea/Don%27t%20Fight%20The%20Music/::ref/Don%27t%20Fight%20The%20Music.jpg.webp
+500,Don’t Fight The Music,黒魔,200,1385,Tairitsu,O.N.G.E.K.I,6,ETR,10.7,10.7,https://cdn.wikiwiki.jp/to/w/arcaea/Don%27t%20Fight%20The%20Music/::ref/Don%27t%20Fight%20The%20Music.jpg.webp
+501,And Revive The Melody,黒魔,220,1710,Tairitsu,O.N.G.E.K.I,6,FTR,10.7,10.9,https://cdn.wikiwiki.jp/to/w/arcaea/And%20Revive%20The%20Melody/::ref/And%20Revive%20The%20Melody.jpg.webp
+502,Swan Song,Void (Mournfinale),148,1225,Lephon,Lucent Historia,6,FTR,9.7,9.9,https://cdn.wikiwiki.jp/to/w/arcaea/Swan%20Song/::ref/Swan%20Song.jpg.webp
+503,Renegade,sky_delta,186,994,Lephon,Lucent Historia,6,FTR,9,9.6,https://cdn.wikiwiki.jp/to/w/arcaea/Renegade/::ref/Renegade.jpg.webp
+504,Rays of Remnant,May × Felysrator,200,982,Lephon,Lucent Historia,6,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/Rays%20of%20Remnant/::ref/Rays%20of%20Remnant.jpg.webp
+505,Breach of Faith,Supire feat.eili,172,1373,Lephon,Lucent Historia,6,FTR,10,10.3,https://cdn.wikiwiki.jp/to/w/arcaea/Breach%20of%20Faith/::ref/Breach%20of%20Faith.jpg.webp
+506,Lament Rain,Ashrount vs. 打打だいず,200,1380,Lephon,Lucent Historia,6,FTR,10,10.6,https://cdn.wikiwiki.jp/to/w/arcaea/Lament%20Rain/::ref/Lament%20Rain.jpg.webp
+507,Designant.,Designant,200,1768,Lephon,Lucent Historia,6,FTR,10.7,10.9,https://cdn.wikiwiki.jp/to/w/arcaea/Designant./::ref/Designant..jpg.webp
+508,Astral Quantization,Dj Grimoire,185,1388,Lephon,Lucent Historia,6,FTR,10,10.6,https://cdn.wikiwiki.jp/to/w/arcaea/Astral%20Quantization/::ref/Astral%20Quantization.jpg.webp
+509,Renegade,sky_delta,186,1165,Lephon,Lucent Historia,6,BYD,10,10.2,https://cdn.wikiwiki.jp/to/w/arcaea/Renegade/::ref/Renegade.jpg.webp
+510,Rays of Remnant,May × Felysrator,200,1118,Lephon,Lucent Historia,6,BYD,10,10.4,https://cdn.wikiwiki.jp/to/w/arcaea/Rays%20of%20Remnant/::ref/Rays%20of%20Remnant.jpg.webp
+511,Breach of Faith,Supire feat.eili,172,1448,Lephon,Lucent Historia,6,BYD,10.7,10.9,https://cdn.wikiwiki.jp/to/w/arcaea/Breach%20of%20Faith/::ref/Breach%20of%20Faith.jpg.webp
+512,Lament Rain,Ashrount vs. 打打だいず,200,1637,Lephon,Lucent Historia,6,BYD,11,11.4,https://cdn.wikiwiki.jp/to/w/arcaea/Lament%20Rain/::ref/Lament%20Rain.jpg.webp
+513,Designant.,Designant,200,2184,Lephon,Lucent Historia,6,BYD,11.7,11.9,https://cdn.wikiwiki.jp/to/w/arcaea/Designant./::ref/Designant..jpg.webp
+514,Ignition,パソコン音楽クラブ,160,994,Hikari,CHUNITHM,6.01,FTR,9.7,9.7,https://cdn.wikiwiki.jp/to/w/arcaea/Ignition/::ref/Ignition.jpg.webp
+515,BlazinG AIR,kanone,150,757,Hikari,CHUNITHM,6.01,FTR,8.7,8.7,https://cdn.wikiwiki.jp/to/w/arcaea/BlazinG%20AIR/::ref/BlazinG%20AIR.jpg.webp
+516,BlazinG AIR,kanone,150,1129,Hikari,CHUNITHM,6.01,ETR,10,10.1,https://cdn.wikiwiki.jp/to/w/arcaea/BlazinG%20AIR/::ref/BlazinG%20AIR.jpg.webp
+517,8-EM,Sampling Masters AYA,168,1081,Tairitsu,CHUNITHM,6.01,FTR,9,9,https://cdn.wikiwiki.jp/to/w/arcaea/8-EM/::ref/8-EM.jpg.webp
+518,8-EM,Sampling Masters AYA,168,1201,Tairitsu,CHUNITHM,6.01,ETR,10,10.3,https://cdn.wikiwiki.jp/to/w/arcaea/8-EM/::ref/8-EM.jpg.webp
+519,DA'AT -The First Seeker of Souls-,水野健冶 VS 大国奏音,222,1500,Tairitsu,CHUNITHM,6.01,FTR,10.7,10.9,https://cdn.wikiwiki.jp/to/w/arcaea/DA'AT%20-The%20First%20Seeker%20of%20Souls-/::ref/DA'AT%20-The%20First%20Seeker%20of%20Souls-.jpg.webp
+520,BREak! BREak! BREak!,HiTECH NINJA vs Cranky,165,864,Tairitsu,maimai,6.02,FTR,8.7,8.8,https://cdn.wikiwiki.jp/to/w/arcaea/BREaK%21%20BREaK%21%20BREaK%21/::ref/BREaK%21%20BREaK%21%20BREaK%21.jpg.webp
+521,BREak! BREak! BREak!,HiTECH NINJA vs Cranky,165,1251,Tairitsu,maimai,6.02,ETR,10,10.3,https://cdn.wikiwiki.jp/to/w/arcaea/BREaK%21%20BREaK%21%20BREaK%21/::ref/BREaK%21%20BREaK%21%20BREaK%21.jpg.webp
+522,Straight into the lights,Cosmograph,90,1226,Tairitsu,maimai,6.02,FTR,9,9.5,https://cdn.wikiwiki.jp/to/w/arcaea/Straight%20into%20the%20lights/::ref/Straight%20into%20the%20lights.jpg.webp
+523,Straight into the lights,Cosmograph,90,1280,Tairitsu,maimai,6.02,ETR,10,10.5,https://cdn.wikiwiki.jp/to/w/arcaea/Straight%20into%20the%20lights/::ref/Straight%20into%20the%20lights.jpg.webp
+524,ViRTUS,Hiro,225,1222,Hikari,maimai,6.02,FTR,9.7,9.9,https://cdn.wikiwiki.jp/to/w/arcaea/ViRTUS/::ref/ViRTUS.jpg.webp
+525,ViRTUS,Hiro,225,1341,Hikari,maimai,6.02,ETR,10.7,10.9,https://cdn.wikiwiki.jp/to/w/arcaea/ViRTUS/::ref/ViRTUS.jpg.webp
+526,ヨミビトシラズ,Limonene (サノカモメ+月島春果),188,1075,Hikari,maimai,6.02,FTR,9.7,9.8,https://cdn.wikiwiki.jp/to/w/arcaea/%E3%83%A8%E3%83%9F%E3%83%93%E3%83%88%E3%82%B7%E3%83%A9%E3%82%BA/::ref/yomibito_shirazu.jpg.webp
+527,Aether Crest: Astral,void (Mournfinale) × 水野健冶,180,1508,Hikari,CHUNITHM,6.02,FTR,10,10.6,https://cdn.wikiwiki.jp/to/w/arcaea/Aether%20Crest%EF%BC%9A%20Astral/::ref/Aether%20Crest_%20Astral.jpg.webp
+528,Aether Crest: Astral,void (Mournfinale) × 水野健冶,180,1941,Hikari,CHUNITHM,6.02,ETR,11,11.5,https://cdn.wikiwiki.jp/to/w/arcaea/Aether%20Crest%EF%BC%9A%20Astral/::ref/Aether%20Crest_%20Astral.jpg.webp

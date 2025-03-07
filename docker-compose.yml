@@ -1,0 +1,10 @@
+version: '3'
+services:
+  flask-app:
+    container_name: arcaea_tier
+    build:
+      context: .
+    ports:
+      - 5000:5000
+    volumes:
+      - .:/app

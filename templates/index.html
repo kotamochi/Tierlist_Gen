@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='css/sample.css') }}">
+    <title>Arcaea難易度表作成</title>
+</head>
+<body>
+    <h1>Arcaea難易度表作成</h1>
+    <div id="Explain_text">
+        <p>二択の選択問題を繰り返す事で自身が考える階級分けされた難易度を出力するサイトです。</p>
+        <p>名前と難易度を入力して開始を押すことで、選択問題が始まります。</p>
+        <p class="red">＊固まってしまった場合はページをリロードし、名前と難易度を同じにすることで再開できます</p><br>
+    </div>
+    <form name="StartForm" id="StartForm">
+        <label for="namebox">名前:</label>
+        <input type="text" id="namebox" name="namebox" required><br><br>
+        <label for="level_select">難易度:</label>
+        <select name="level_select" id="level_select">
+            <option value="">難易度を選択してください</option>
+            <option value="7">7</option>
+            <option value="7.7">7+</option>
+            <option value="8">8</option>
+            <option value="8.7">8+</option>
+            <option value="9">9</option>
+            <option value="9.7">9+</option>
+            <option value="10">10</option>
+            <option value="10.7">10+</option>
+            <option value="11">11以上</option>
+        </select><br><br>
+        <input type="button" id="startButton" value="開始" onclick="create_start()"><br><br><br>
+    </form>
+
+    <div id="gameArea" style="display: none;">
+        <div class="container">
+            <input type="radio" id="img_1" name="selectable_image" value="">
+            <label for="img_1">
+                <img src="" alt="Photo 1" id="image1">
+                <p id="image_name1"></p>
+            </label>
+
+            <input type="radio" id="img_2" name="selectable_image" value="">
+            <label for="img_2">
+                <img src="" alt="Photo 2" id="image2">
+                <p id="image_name2"></p>
+            </label>
+        </div>
+        <div class="choiceButton">
+            <input type="button" id="up+2" value="かなり強い">
+            <input type="button" id="up+1" value="強い">
+        </div>
+        <br>
+        <h3 id="instructionText">画像をクリックし、ボタンを押すことで進行します。</h3>
+        <br>
+    </div>
+
+    <input type="button" class="result_button" id="result_button" value="結果を出力する" style="display: none;">
+    <br>
+    <input type="button" class="result_button" id="download_button" value="結果を画像で保存する" style="display:none;">
+    <br>
+
+    <div id="resultArea" style="display: none;">
+        <h1>Tier List</h1>
+        <table id="tierTable">
+            <tr>
+                <th>Tier</th>
+                <th>Images</th>
+            </tr>
+        </table>
+    </div>
+
+    <script type="text/javascript">
+        function create_start() {
+            // 名前と難易度を取得
+            var name = $("#namebox").val();
+            const num = document.StartForm.level_select.selectedIndex;
+            var level = document.StartForm.level_select.options[num].value;
+            if (level == "") {
+                return 
+            } else {
+                ;
+            }
+            
+            // 名前と難易度を固定化
+            document.getElementById("namebox").disabled = true;
+            document.getElementById("level_select").disabled = true;
+            document.getElementById("startButton").disabled = true;
+
+            // pythonスクリプト実行
+            $.ajax({url: "/start_rank",  // Flaskのエンドポイント
+                type: 'get',  // HTTPメソッド
+                data: {"name": name, "level": level},  // 送信するデータ
+            }).done(function(respon) {
+                // サーバーからのレスポンスを処理
+                var dict = JSON.parse(respon);
+                // 途中再開した場合は知らせる
+                continue_disp(dict);
+                // 画像と楽曲名を表示
+                next_game(dict);
+                // gameAreaを表示する
+                document.getElementById("gameArea").style.display = "block";
+            }).fail(function(error) {
+                // エラー時の処理
+                console.log('Error:', error);
+            });
+        };
+
+        function decision() {
+            // 名前と難易度を取得
+            var name = $("#namebox").val();
+            const num = document.StartForm.level_select.selectedIndex;
+            var level = document.StartForm.level_select.options[num].value;
+
+            // 選択された楽曲を取得
+            var selected_music = $("input[name='selectable_image']:checked").val();
+            var non_selected_music = $("input[name='selectable_image']:not(:checked)").val();
+
+            // 名前、難易度、選択楽曲を返す
+            return [name, level, selected_music, non_selected_music];
+        }
+
+        function continue_disp(dict) {
+            // 途中再開であるか確認
+            if (dict["continue"] == true) {
+                alert("前回の続きから再開します。");
+            } else {
+                ;
+            }
+        }
+        
+        function next_game(dict) {
+            // 画像と楽曲名を表示
+            document.getElementById("image1").src = dict["img1"];
+            document.getElementById("image_name1").textContent = dict["name1"];
+            document.getElementById("img_1").value = dict["name1"];
+            document.getElementById("image2").src = dict["img2"];
+            document.getElementById("image_name2").textContent = dict["name2"];
+            document.getElementById("img_2").value = dict["name2"];
+
+            // ボタン無効化解除
+            document.getElementById("up+2").disabled = false;
+            document.getElementById("up+1").disabled = false;
+        }
+
+        function result_game(dict) {
+            // Tierリスト表示ボタンを表示する
+            document.getElementById("result_button").style.display = "block";
+            // ボタンを無効化
+            document.getElementById("img_1").disabled = true;
+            document.getElementById("img_2").disabled = true;
+
+            // 結果を出力する説明文に変更する
+            instructionText("下の「結果を出力する」ボタンをクリックして、最終結果を表示します。");
+        }
+
+        function instructionText(text) {
+            document.querySelector("#gameArea h3").textContent = text;
+        }
+
+        function show_ranking(data) {
+            // ボタンを無効化
+            document.getElementById("result_button").disabled = true;
+
+            // テーブルを構築
+            var table = document.getElementById("tierTable");
+            table.innerHTML = "<tr><th>Tier</th><th>Images</th></tr>"; // テーブルをリセットしてから再構築する
+
+            for (var tier in data) {
+                if (data.hasOwnProperty(tier)) {
+                    var row = table.insertRow();
+                    var tierCell = row.insertCell(0);
+                    var imageCell = row.insertCell(1);
+
+                    tierCell.innerHTML = tier;
+                    var images = Object.values(data[tier]);
+                    for (var i = 0; i < images.length; i++) {
+                        var img = document.createElement('img');
+                        img.src = images[i];
+                        img.className = "tierImage"
+                        imageCell.appendChild(img);
+                    }
+                }
+            }
+            // Tierリストを表示
+            document.getElementById("resultArea").style.display = "block";
+
+            // 「画像で保存する」ボタンを表示する
+            document.getElementById("download_button").style.display = "block";
+
+            // 下にスクロール
+            window.scrollBy(0,800);
+        }
+
+        // 以下は仮の例です。実際のゲームロジックに応じて変更する必要があります。
+        document.getElementById("up+2").addEventListener("click", function() {
+            // ボタンを無効化
+            document.getElementById("up+2").disabled = true;
+            document.getElementById("up+1").disabled = true;
+            
+            // 選択されたデータを取得
+            let data
+            data = decision();
+            // point +2にする
+            const point = 2
+
+            // データが取れているか確認
+            if (data[2] == undefined) {
+                // ボタンを無効化を解除
+                document.getElementById("up+2").disabled = false;
+                document.getElementById("up+1").disabled = false;
+                alert("曲を選択してください!");
+                return
+            } else {
+                ;
+            }
+            
+            // python関数を実行
+            $.ajax({url: "/choice",  // Flaskのエンドポイント
+                type: 'get',  // HTTPメソッド
+                data: {"name": data[0], "level": data[1], "serect_music": data[2], "non_serect_music": data[3], "point": point},  // 送信するデータ
+            }).done(function(respon) {
+                // サーバーからのレスポンスを処理
+                var dict = JSON.parse(respon);
+                // ゲームが終了しているか確認
+                if (dict["game_flg"] == true) {
+                    // 画像と楽曲名を表示
+                    next_game(dict);
+                } else {
+                    // 結果を表示する
+                    result_game(dict);
+                }
+            }).fail(function(error) {
+                // エラー時の処理
+                console.log('Error:', error);
+            });
+        });
+
+        document.getElementById("up+1").addEventListener("click", function() {
+            // ボタンを無効化
+            document.getElementById("up+2").disabled = true;
+            document.getElementById("up+1").disabled = true;
+
+            // 選択されたデータを取得
+            let data
+            data = decision();
+            // point +1にする
+            const point = 1
+
+            // データが取れているか確認
+            if (data[2] == undefined) {
+                // ボタンを無効化を解除
+                document.getElementById("up+2").disabled = false;
+                document.getElementById("up+1").disabled = false;
+                alert("曲を選択してください!");
+                return
+            } else {
+                ;
+            }
+            
+            // python関数を実行
+            $.ajax({url: "/choice",  // Flaskのエンドポイント
+                type: 'get',  // HTTPメソッド
+                data: {"name": data[0], "level": data[1], "serect_music": data[2], "non_serect_music": data[3], "point": point},  // 送信するデータ
+            }).done(function(respon) {
+                // サーバーからのレスポンスを処理
+                var dict = JSON.parse(respon);
+                // ゲームが終了しているか確認
+                if (dict["game_flg"] == true) {
+                    // 画像と楽曲名を表示
+                    next_game(dict);
+                } else {
+                    // 結果を表示する
+                    result_game(dict);
+                }
+            }).fail(function(error) {
+                // エラー時の処理
+                console.log('Error:', error);
+            });
+        });
+
+        document.getElementById("result_button").addEventListener("click", function() {
+            // 名前と難易度を取得
+            var name = $("#namebox").val();
+            const num = document.StartForm.level_select.selectedIndex;
+            var level = document.StartForm.level_select.options[num].value;
+
+            // python関数を実行
+            $.ajax({url: "/result",  // Flaskのエンドポイント
+                type: 'get',  // HTTPメソッド
+                data: {"name": name, "level": level},  // 送信するデータ
+            }).done(function(respon) {
+                // サーバーからのレスポンスを処理
+                var dict = JSON.parse(respon);
+                // ランキングデータをテーブルに当てはめて表示
+                show_ranking(dict);
+            }).fail(function(error) {
+                // エラー時の処理
+                console.log('Error:', error);
+            });
+        });
+
+        document.getElementById("download_button").addEventListener("click", function() {
+            html2canvas(document.getElementById("resultArea"), {
+                useCORS: true,
+                scale: 2,  // 画質を向上
+            }).then(canvas => {
+                downloadImage(canvasToImage(canvas), 'result.png');
+            });
+        });
+
+        // 「結果を画像で保存する」ボタンの処理
+        document.getElementById("download_button").addEventListener("click", function() {
+            const element = document.getElementById("resultArea");
+        
+            // 元のスタイルを記憶
+            const originalWidth = element.style.width;
+            const originalMargin = element.style.margin;
+            const originalPadding = element.style.padding;
+        
+            // 一時的に程よい余白を設定（任意で調整可能）
+            element.style.width = 'fit-content';
+            element.style.margin = '0 auto';
+            element.style.padding = '20px'; // ←ここで余白を調整（大きくすると余白が増える）
+        
+            setTimeout(function(){
+                html2canvas(element, {
+                    useCORS: true,
+                    scale: 2
+                }).then(canvas => {
+                    downloadImage(canvas.toDataURL('image/png'), 'tier_result.png');
+        
+                    // 元のスタイルを戻す
+                    element.style.width = originalWidth;
+                    element.style.margin = originalMargin;
+                    element.style.padding = originalPadding;
+                });
+            }, 500);
+        });
+        
+        // URIをダウンロードする関数
+        function downloadURI(uri, name) {
+            var link = document.createElement("a");
+            link.download = name;  // ダウンロードするファイル名を設定
+            link.href = uri;  // ダウンロードするURIを設定
+            document.body.appendChild(link);  // リンクをDOMに追加
+            link.click();  // リンクをクリックしてダウンロードを開始
+            document.body.removeChild(link);  // リンクをDOMから削除
+            delete link;  // リンクを削除
+        }
+        
+        // キャンバスをダウンロードする関数
+        function downloadCanvas(canvas, filename) {
+            var uri = canvas.toDataURL();
+            downloadURI(uri, filename);
+        }
+        
+        // URIをダウンロードする関数
+        function downloadURI(uri, name) {
+            const a = document.createElement('a');
+            a.href = uri;
+            a.download = name;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+        }
+        
+        // canvasを画像として保存する関数
+        function downloadImage(data, filename) {
+            let link = document.createElement('a');
+            link.href = data;
+            link.download = filename;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        }
+        
+
+    </script>
+</body>
+</html>
